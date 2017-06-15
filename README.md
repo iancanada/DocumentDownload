@@ -29,3 +29,8 @@
 [7. Dual XO II Clock Board without XO and socket](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/DualXO%20II%20ClockBoard)
 
 ![DualXO II](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/DualXO%20II%20ClockBoard/DualXOIInoSocket.jpg)
+
+[8. S/PDIF Interface Board for FIFO II](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/SPDIFboard)
+
+![S/PDIF](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/SPDIFboard/SPDIFinterfaceBoard.JPG)
+
