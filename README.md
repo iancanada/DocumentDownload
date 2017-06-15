@@ -36,6 +36,6 @@
 
 [9. I2S to PCM converter board V2.0](https://github.com/iancanada/DocumentDownload/tree/master/PCMboard)
 
-![S/PDIF](https://github.com/iancanada/DocumentDownload/tree/master/PCMboard)
+![S/PDIF](https://github.com/iancanada/DocumentDownload/blob/master/PCMboard/I2StoPCMboard.JPG)
 
 
