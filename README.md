@@ -34,3 +34,8 @@
 
 ![S/PDIF](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/SPDIFboard/SPDIFinterfaceBoard.JPG)
 
+[9. I2S to PCM converter board V2.0](https://github.com/iancanada/DocumentDownload/tree/master/PCMboard)
+
+![S/PDIF](https://github.com/iancanada/DocumentDownload/tree/master/PCMboard)
+
+
