@@ -15,3 +15,17 @@
 [4. DoP to DSD decoder daught board](https://github.com/iancanada/DocumentDownload/tree/master/DoP%20Decoder)
 
 ![Dop Decoder](https://github.com/iancanada/DocumentDownload/blob/master/DoP%20Decoder/DoP_Decoder1.jpg)
+
+
+[5. I2S FIFO II KIT](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/FIFO%20II)
+
+![Dop Decoder](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/FIFO%20II/FIFOII.jpg)
+
+
+[6. Dual XO II Clock Board with 45/49 XOs and sockets](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/DualXO%20II%20ClockBoard)
+
+![DualXO II](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/DualXO%20II%20ClockBoard/DualXOIIwXO.jpg)
+
+[7. Dual XO II Clock Board without XO and socket](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/DualXO%20II%20ClockBoard)
+
+![DualXO II](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/DualXO%20II%20ClockBoard/DualXOIInoSocket.jpg)
