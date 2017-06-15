@@ -38,4 +38,8 @@
 
 ![S/PDIF](https://github.com/iancanada/DocumentDownload/blob/master/PCMboard/I2StoPCMboard.JPG)
 
+[10. FIFO II isolator board mini KIT](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/IsolatorBoard)
+
+![Isolator FIFO II](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/FIFO%20II%20series/IsolatorBoard/12_IsolatorMiniKIT.JPG)
+
 
