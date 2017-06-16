@@ -62,11 +62,11 @@
 
 ![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/FPCcombo10P.JPG)
 
-[19. Package of Universal SMT XO Adapters KIT lot of 5](https://github.com/iancanada/DocumentDownload/tree/master/Adapterss)
+[19. Package of Universal SMT XO Adapters KIT lot of 5](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
 ![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/XOadapterKITlotOf5.JPG)
 
-[20. RaspberryPi I2S adapter PCB/connector package](https://github.com/iancanada/DocumentDownload/tree/master/Adapterss)
+[20. RaspberryPi I2S adapter PCB/connector package](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
 ![PiI2SAdapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/RpiI2SAdapter.JPG)
 
