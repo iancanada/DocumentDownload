@@ -78,6 +78,16 @@
 
 ![AntiVib](https://github.com/iancanada/DocumentDownload/blob/master/Others/StandoffScrewSet.jpg)
 
+[23. Additional BIII adapters PCB](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![BIIIadapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/BIIIadapterPCB.JPG)
+
+[24. SMT connector package for BIII adapters](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![BIIIconnector](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/Connectors.JPG)
+
+
+
 
 
 
