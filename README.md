@@ -64,9 +64,9 @@
 
 [19. Package of Universal SMT XO Adapters KIT lot of 5](https://github.com/iancanada/DocumentDownload/tree/master/Adapterss)
 
-![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/9_XOadapterKITlotOf5.JPG)
+![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/XOadapterKITlotOf5.JPG)
 
 [20. RaspberryPi I2S adapter PCB/connector package](https://github.com/iancanada/DocumentDownload/tree/master/Adapterss)
 
-![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/9_XOadapterKITlotOf5.JPG)
+![PiI2SAdapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/RpiI2SAdapter.JPG)
 
