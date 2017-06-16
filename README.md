@@ -62,5 +62,7 @@
 
 ![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/FPCcombo10P.JPG)
 
+[19. Package of Universal SMT XO Adapters KIT lot of 5](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
+![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/FPCcombo10P.JPG)
 
