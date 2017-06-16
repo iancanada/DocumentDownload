@@ -86,7 +86,9 @@
 
 ![BIIIconnector](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/Connectors.JPG)
 
+[25. I2S backdoor KIT for S/PDIF board](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/SPDIFboard)
 
+![BackDoor](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/SPDIFboard/I2SbackdoorKIT.JPG)
 
 [26. ADM715X ultra-low noise LDO PCB (free)](https://github.com/iancanada/DocumentDownload/tree/master/PowerSupply/ADM715X)
 
