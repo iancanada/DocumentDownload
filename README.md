@@ -58,7 +58,9 @@
 
 ![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/U.FLsocket.JPG)
 
+[18. 10P 1.0mm FFC/FPC cables combo (3 cables)](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
+![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/FPCcombo10P.JPG)
 
 
 
