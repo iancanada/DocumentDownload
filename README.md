@@ -54,7 +54,9 @@
 
 ![U.FL cables](https://github.com/iancanada/DocumentDownload/blob/master/Cables/SilverPlatedCable.JPG)
 
+[17. SMT U.FL socket](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
+![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/U.FLsocket.JPG)
 
 
 
