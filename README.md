@@ -66,5 +66,7 @@
 
 ![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/9_XOadapterKITlotOf5.JPG)
 
+[20. RaspberryPi I2S adapter PCB/connector package](https://github.com/iancanada/DocumentDownload/tree/master/Adapterss)
 
+![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/9_XOadapterKITlotOf5.JPG)
 
