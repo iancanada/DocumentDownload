@@ -45,3 +45,10 @@
 [11. Finished TPS7A4700 low noise regulator board V2.5](https://github.com/iancanada/DocumentDownload/tree/master/PowerSupply/TPS7A4700)
 
 ![TPS7A4700](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/TPS7A4700/TPS7A4700LDOboard.JPG)
+
+[12. Battery Management board PCB](https://github.com/iancanada/DocumentDownload/tree/master/PowerSupply/BatteryManagementBoard)
+
+![BatteryManage](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/BatteryManagementBoard/BatteryManagementPCB.jpg)
+
+
+
