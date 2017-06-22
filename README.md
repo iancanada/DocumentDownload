@@ -1,5 +1,9 @@
 [My Gallery](https://www.flickr.com/photos/135181977@N06/albums)
 
+[Ian Group Buy 2017](http://www.diyaudio.com/forums/group-buys/207438-ian-asynchronous-i2s-s-pdif-fifo-kit-group-buy-243.html#post5111232)
+
+[Twitter](https://twitter.com/iancanadaTT?lang=en)
+
 # Ian's GB2017 products list
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
