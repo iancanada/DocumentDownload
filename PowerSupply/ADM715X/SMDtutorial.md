@@ -1,6 +1,6 @@
 # SMT assembling tutorial of ADM715X PCB
 
-Please trust me, SMT assembling can be really very easy by using your kitchen oven. I believe you can make it. You will get a factory quality PCB assembly.
+Please trust me, SMT assembling can be very easy by using your kitchen oven. I believe you can make it. You will get a factory quality PCB assembly.
 
 Here is the tutorial. It's fully approved by my self. I'm very glad to share it with you.
 
