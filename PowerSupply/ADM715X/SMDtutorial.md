@@ -1,7 +1,9 @@
-# SMT assembling tutorial of ADM715X low noise regulator PCB
+# SMT assembling tutorial of ADM715X PCB
 
+Please trust me.  SMT assembling is really very easy by your kitchen oven. I believe you can make it. You will get a factory quality PCB assembly.
 
-[1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
+Here is the tutorial. It's fully approved by my self. I'd be very glad to share it with you.
+
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
 
