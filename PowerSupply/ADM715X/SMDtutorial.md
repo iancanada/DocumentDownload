@@ -9,7 +9,7 @@ Here is the tutorial. It's fully approved by my self. I'm very glad to share it 
 
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial1.jpg)
 
-2. Use a needle dropping the solder paste to each SMD pad on pcb. 
+2. Use a needle to drop the solder paste on each SMD pad. 
 You don't need to cover the whole pad. It just needs to be able to touch and wet the pins of SMD components. Separate the paste bridge between pins  by the needle if there is any. Don't worry about any left over, they will all be cleaned when the solder gets molten.  Please see the picture fro reference.
 
 ![2](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial2.jpg)
