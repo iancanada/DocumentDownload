@@ -22,10 +22,9 @@ You don't need to cover the whole pad. You just need to make it be able to touch
 
 ![4](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial4.jpg)
 
-1. Solder paste is the most important thing to prepare. I recommended SMD291AX. 
-   DigiKey P/N is: SMD291AX-ND or SMD291AX50T3-ND. Keep in mind don't use any lead-free solder paste.
+5. Set your kitchen oven to bake mode, pre-heat it to 280F or 138C. 
 
-![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial1.jpg)
+![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial5.jpg)
 
 1. Solder paste is the most important thing to prepare. I recommended SMD291AX. 
    DigiKey P/N is: SMD291AX-ND or SMD291AX50T3-ND. Keep in mind don't use any lead-free solder paste.
