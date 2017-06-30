@@ -30,7 +30,7 @@ You don't need to cover the whole pad. You just need to make it be able to touch
 
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial6.jpg)
 
-7. Re-set the oven temperature to 380F or 193C immediately. The temperature will start to rise.  It should take less than 8 minutes to reach the target temperature. Too long will damage the PCB.
+7. Re-set the oven temperature to 380F or 193C immediately. The temperature will start to rise.  It should take less than 8 minutes to reach the target temperature. 3 to 5 minutes would the good time range. Too long will damage the PCB.
 
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial7.jpg)
 
