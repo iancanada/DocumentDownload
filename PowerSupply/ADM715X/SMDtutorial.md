@@ -41,7 +41,11 @@ You don't need to cover the whole pad. You just need to make it be possible to t
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial8.jpg)
 
 
-Now you get the fully SMT assembled PCB. No difference with those made by SMT factory,
+Now you get the fully SMT assembled PCB. No difference with those made by SMT factory.
+
+Now you get the fully SMT assembled PCB. No difference with those made by SMT factory.
 
 Enjoy
+
+Note: If your oven has big tolerance on temperature control, you need to use a external thermometer to monitoring the temperature profile. Make sure do not over heat the PCB.
 
