@@ -34,8 +34,7 @@ You don't need to cover the whole pad. You just need to make it be able to touch
 
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial7.jpg)
 
-1. Solder paste is the most important thing to prepare. I recommended SMD291AX. 
-   DigiKey P/N is: SMD291AX-ND or SMD291AX50T3-ND. Keep in mind don't use any lead-free solder paste.
+8. Once 380F target temperature is reached, fully open the oven door, take the cooking pan out of the oven. Be careful don't shake the pan. Let it cooling down in the room temperature.
 
-![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial1.jpg)
+![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial8.jpg)
 
