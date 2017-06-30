@@ -1,6 +1,5 @@
-[My Gallery](https://www.flickr.com/photos/135181977@N06/albums)
+# SMT assembling tutorial of ADM715X low noise regulator PCB
 
-# Ian's GB2017 products list
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
