@@ -30,10 +30,9 @@ You don't need to cover the whole pad. You just need to make it be able to touch
 
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial6.jpg)
 
-1. Solder paste is the most important thing to prepare. I recommended SMD291AX. 
-   DigiKey P/N is: SMD291AX-ND or SMD291AX50T3-ND. Keep in mind don't use any lead-free solder paste.
+7. Re-set the oven temperature to 380F or 193C immediately. The temperature will start to rise.  It should take less than 8 minutes to reach the target temperature. Too long will damage the PCB.
 
-![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial1.jpg)
+![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial7.jpg)
 
 1. Solder paste is the most important thing to prepare. I recommended SMD291AX. 
    DigiKey P/N is: SMD291AX-ND or SMD291AX50T3-ND. Keep in mind don't use any lead-free solder paste.
