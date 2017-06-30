@@ -7,9 +7,9 @@ Here is the tutorial. It's fully approved by my self. I'm very glad to share it 
 1. Solder paste is the most important thing to prepare. I recommended SMD291AX. 
    DigiKey P/N is: SMD291AX-ND or SMD291AX50T3-ND. Keep in mind don't use any lead-free solder paste.
 
-![](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial1.jpg)
+![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial1.jpg)
 
-2. Solder paste is the most important thing to prepare. I recommended SMD291AX. 
-   DigiKey P/N is: SMD291AX-ND or SMD291AX50T3-ND. Keep in mind don't use any lead-free solder paste.
+2. Use a needle dropping the solder paste to each SMD pad on pcb. 
+You don't need to cover the whole pad. It just needs to be able to touch and wet the pins of SMD components. Separate the paste bridge between pins  by the needle if there is any. Don't worry about any left over, they will all be cleaned when the solder gets molten.  Please see the picture fro reference.
 
-![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial1.jpg)
+![2](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial2.jpg)
