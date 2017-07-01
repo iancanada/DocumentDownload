@@ -1,4 +1,4 @@
-# SMT assembling tutorial of ADM715X PCB
+# Kitchen oven SMT assembling tutorial of ADM715X PCB
 
 By Ian Jin.  (  iancanada.mail@gmail.com  )
 
