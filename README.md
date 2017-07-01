@@ -98,6 +98,9 @@
 
 [26. ADM715X ultra-low noise LDO PCB (free) $0.00](https://github.com/iancanada/DocumentDownload/tree/master/PowerSupply/ADM715X)
 
+[Tutorial of oven SMT assembling]
+(https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorial.md)
+
 ![BIIIconnector](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/ADM715X.jpg)
 
 
