@@ -20,7 +20,7 @@ You don't need to cover the whole pad. You just need to make it be possible to t
 
 ![3](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial3.jpg)
 
-4. Put the populated PCB into a aluminum cooking pan.
+4. Put the populated PCB into an aluminum cooking pan.
 
 ![4](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial4.jpg)
 
