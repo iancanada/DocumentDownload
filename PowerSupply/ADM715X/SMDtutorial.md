@@ -44,5 +44,5 @@ Now you get the fully SMT assembled PCB. No difference from those made by SMT fa
 
 Enjoy
 
-Note: If your oven has big tolerance on temperature control, you will need an external thermometer to monitor the temperature profile. Make sure do not over heat the PCB.
+*Note: If your oven has big tolerance on temperature control, you will need an external thermometer to monitor the temperature profile. Make sure do not over heat the PCB.
 
