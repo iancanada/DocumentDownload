@@ -28,7 +28,7 @@ You don't need to cover the whole pad. You just need to make it be possible to t
 
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial5.jpg)
 
-6. When the pre-heat temperature reached, quickly put the cooking pan into the oven. Close the oven door.
+6. When the pre-heat temperature is reached, quickly put the cooking pan into the oven. Close the oven door.
 
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial6.jpg)
 
