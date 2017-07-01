@@ -40,7 +40,7 @@ You don't need to cover the whole pad. You just need to make it be possible to t
 
 ![1](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorialPictures/SMDtutorial8.jpg)
 
-Now you get the fully SMT assembled PCB. No difference from those made by SMT factory.
+Now you get a fully SMT assembled PCB. No difference from those made by SMT factory.
 
 Enjoy
 
