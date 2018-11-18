@@ -16,9 +16,9 @@
 
 ![McDualXO](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/McFIFO%20series/McDualXO/McDualXOGB.jpg)
 
-[3. IsolatorPi RsapberryPi/ODROID I2S/DSD/DoP isolator $49.00](https://github.com/iancanada/DocumentDownload/tree/master/IsolatorPi)
+[3. IsolatorPiII RsapberryPi/ODROID I2S/DSD/DoP isolator $49.00](https://github.com/iancanada/DocumentDownload/tree/master/IsolatorPi)
 
-![IsolatorPi](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/IsolatorPi/IsolatorPiTop0.jpg)
+![IsolatorPi](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/IsolatorPi/IsolatorPiII.jpg)
 
 [4. DoP to DSD decoder daught board $39.00](https://github.com/iancanada/DocumentDownload/tree/master/DoP%20Decoder)
 
