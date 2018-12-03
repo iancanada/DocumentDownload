@@ -16,7 +16,7 @@
 
 ![McDualXO](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/McFIFO%20series/McDualXO/McDualXOGB.jpg)
 
-[3. IsolatorPiII RsapberryPi/ODROID I2S/DSD/DoP isolator $49.00](https://github.com/iancanada/DocumentDownload/tree/master/IsolatorPi)
+[3. IsolatorPi II RsapberryPi/ODROID I2S/DSD/DoP isolator $49.00](https://github.com/iancanada/DocumentDownload/tree/master/IsolatorPi)
 
 ![IsolatorPi](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/IsolatorPi/IsolatorPiII.jpg)
 
