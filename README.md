@@ -6,7 +6,7 @@
 
 [Twitter](https://twitter.com/iancanadaTT?lang=en)
 
-# Ian's GB2019 products list (Please lick links below for user's maunal)
+# Ian's GB2019 products list (Links below for user's maunal)
 
 [A1. FifoPi 768KHz I2S/DSD/DoP FIFO with isolator and dual XO (Regular $135,special for this GB) $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
