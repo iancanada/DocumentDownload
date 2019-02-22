@@ -12,7 +12,7 @@
 
 ![FifoPi](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPi.jpg)
 
-[A1. FifoPi 768KHz I2S/DSD/DoP FIFO with isolator and dual XO (Regular $135,special for this GB) $99.00]
+[A2. FifoPi 768KHz I2S/DSD/DoP FIFO with isolator and dual XO (Regular $135,special for this GB) $99.00]
 (https://github.com/iancanada/DocumentDownload/tree/master/LifePO4PowerSupply)
 
 ![LifePO4 Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/LifePO4PowerSupply.jpg)
