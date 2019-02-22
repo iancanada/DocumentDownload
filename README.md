@@ -12,6 +12,11 @@
 
 ![FifoPi](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPi.jpg)
 
+[A2. LifeO4 pure power supply with 5 output rails (no battery) $189.9-]
+(https://github.com/iancanada/DocumentDownload/tree/master/LifePO4PowerSupply)
+
+![LifePO4 Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/LifePO4PowerSupply.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
