@@ -28,6 +28,10 @@
 
 ![ES9028Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9028Q2MDacHAT/ES9028Q2MdacHAT.jpg)
 
+[A6. I/V STD standard OPA I/V stage $35.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
+
+![I/V STD](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTD.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
