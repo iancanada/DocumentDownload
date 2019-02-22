@@ -20,6 +20,14 @@
 
 ![ESS controller](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESSC.jpg)
 
+[A4. Dual Mono ES9038Q2M DAC HAT $85](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
+
+![Dual Mono ES9038Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT/ES9038Q2MdacHAT.jpg)
+
+[A5. ES9028Q2M DAC HAT $49-](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9028Q2MDacHAT)
+
+![ES9028Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9028Q2MDacHAT/ES9028Q2MdacHAT.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
