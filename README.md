@@ -12,7 +12,7 @@
 
 ![FifoPi](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPi.jpg)
 
-[A2. LifeO4 pure power supply with 5 output rails (no battery) $189.9-]
+[A1. FifoPi 768KHz I2S/DSD/DoP FIFO with isolator and dual XO (Regular $135,special for this GB) $99.00]
 (https://github.com/iancanada/DocumentDownload/tree/master/LifePO4PowerSupply)
 
 ![LifePO4 Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/LifePO4PowerSupply.jpg)
