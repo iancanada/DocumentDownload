@@ -16,10 +16,9 @@
 
 ![LifePO4 Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/LifePO4PowerSupply.jpg)
 
-[A3. ESS controller $39.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4PowerSupply)
+[A3. ESS controller $39.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
 
-![LifePO4 Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/LifePO4PowerSupply.jpg)
-
+![ESS controller](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESSC.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
