@@ -32,6 +32,22 @@
 
 ![I/V STD](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTD.jpg)
 
+[A7. Transformer I/V PCB mini KIT $19.00]()
+
+[A8. ESS controller extension kit $12.00]()
+
+[A9. Package of dedicated CCHD957 XO adapter kit lot of 2 $8.90]()
+
+[A10. Package of OPA1622 adapter PCB kit lot of 5 $9.80]()
+
+[A11.2” double-ended silver plated U.FL coaxial cable $2.80]()
+
+[A12. 2.5mm metal standoffs for RPI lot of 4 sets $2.90]() 
+
+[A13. LT3042 low noise regulator PCB, free $0]()
+
+[A14. I/V STD standard I/V stage empty PCB, free $0]()
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
