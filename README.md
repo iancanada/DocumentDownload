@@ -34,7 +34,9 @@
 
 [A7. Transformer I/V PCB mini KIT $19.00]()
 
-[A8. ESS controller extension kit $12.00]()
+[A8. ESS controller extension kit $12.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
+
+![Controller extension KIT](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESScontrollerExtensionKit.jpg)
 
 [A9. Package of dedicated CCHD957 XO adapter kit lot of 2 $8.90]()
 
