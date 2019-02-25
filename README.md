@@ -38,7 +38,7 @@
 
 ![Controller extension KIT](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESScontrollerExtensionKit.jpg)
 
-[A9. Package of dedicated CCHD957 XO adapter kit lot of 2 $8.90](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/CCHD957adapterKIT
+[A9. Package of dedicated CCHD957 XO adapter kit lot of 2 $8.90 (https://github.com/iancanada/DocumentDownload/tree/master/Adapters/CCHD957adapterKIT)
 
 ![CCHD957 adapter KIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/CCHD957adapterKIT/CCHD957daapterKIT.jpg)
 
