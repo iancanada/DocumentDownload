@@ -44,7 +44,7 @@
 
 [A10. Package of OPA1622 adapter PCB kit lot of 5 $9.80](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
-![OPA1622 adapter](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+![OPA1622 adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OPA1622AdapterPcbKitLotOf5.jpg)
 
 [A11.2” double-ended silver plated U.FL coaxial cable $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
