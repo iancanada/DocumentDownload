@@ -32,7 +32,7 @@
 
 ![I/V STD](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTD.jpg)
 
-[A7. Transformer I/V PCB mini KIT $19.00]()
+[A7. Transformer I/V PCB mini KIT, $19.00]()
 
 [A8. ESS controller extension kit $12.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
 
@@ -42,15 +42,15 @@
 
 ![CCHD957 adapter KIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/CCHD957adapterKIT/CCHD957daapterKIT.jpg)
 
-[A10. Package of OPA1622 adapter PCB kit lot of 5 $9.80](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+[A10. Package of OPA1622 adapter PCB kit lot of 5, $9.80](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
 ![OPA1622 adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OPA1622AdapterPcbKitLotOf5.jpg)
 
-[A11.  2” double-ended silver plated U.FL coaxial cable $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+[A11.  2” double-ended silver plated U.FL coaxial cable, $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
 ![2"U.FL cable](https://github.com/iancanada/DocumentDownload/blob/master/Cables/2inchU.FLcable.jpg)
 
-[A12.  2.5mm metal standoffs for RPI lot of 4 sets $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
+[A12.  2.5mm metal standoffs for RPI lot of 4 sets, $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
 
 ![2.5mm standoffs](https://github.com/iancanada/DocumentDownload/blob/master/Others/2.5mmMetalStandoffs4Sets.jpg)
 
@@ -62,7 +62,7 @@
 
 ![I/V STD PCB](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTDemptyPCB.jpg)
 
-[A15. Buffalo I/V Board I/V adapter KIT $7.50](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
+[A15. Buffalo I/V Board I/V adapter KIT, $7.50](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
 
 ![Buffalo IV adpaterKIT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/BuffaloIVboardAdapterKIT.jpg)
 
