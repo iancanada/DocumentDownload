@@ -46,11 +46,11 @@
 
 ![OPA1622 adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OPA1622AdapterPcbKitLotOf5.jpg)
 
-[A11.2” double-ended silver plated U.FL coaxial cable $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+[A11.  2” double-ended silver plated U.FL coaxial cable $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
 ![2"U.FL cable](https://github.com/iancanada/DocumentDownload/blob/master/Cables/2inchU.FLcable.jpg)
 
-[A12. 2.5mm metal standoffs for RPI lot of 4 sets $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
+[A12.  2.5mm metal standoffs for RPI lot of 4 sets $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
 
 ![2.5mm standoffs](https://github.com/iancanada/DocumentDownload/blob/master/Others/2.5mmMetalStandoffs4Sets.jpg)
 
