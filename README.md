@@ -44,7 +44,7 @@
 
 ![CCHD957 adapter KIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/CCHD957adapterKIT/CCHD957daapterKIT.jpg)
 
-[10A. Package of OPA1622 adapter PCB kit lot of 5, $9.80](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+[10A. Package of OPA1622 adapter PCB kit lot of 5, $5.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
 ![OPA1622 adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OPA1622AdapterPcbKitLotOf5.jpg)
 
