@@ -8,65 +8,69 @@
 
 # Ian's GB2019 products list (Links below for user's maunal)
 
-[A1. FifoPi 768KHz I2S/DSD/DoP FIFO with isolator and dual XO (Regular $135,special for this GB) $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
+[1A. FifoPi 768KHz I2S/DSD/DoP FIFO with isolator and dual XO (Regular $135,special for this GB) $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
 ![FifoPi](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPi.jpg)
 
-[A2. LifeO4 pure power supply with 5 output rails (no batterty) $189.99](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4PowerSupply)
+[2A. LifeO4 pure power supply with 5 output rails (no batterty) $189.99](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4PowerSupply)
 
 ![LifePO4 Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/LifePO4PowerSupply.jpg)
 
-[A3. ESS controller $39.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
+[3A. ESS controller $39.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
 
 ![ESS controller](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESSC.jpg)
 
-[A4. Dual Mono ES9038Q2M DAC HAT $85.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
+[4A. Dual Mono ES9038Q2M DAC HAT $85.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
 
 ![Dual Mono ES9038Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT/ES9038Q2MdacHAT.jpg)
 
-[A5. ES9028Q2M DAC HAT $49.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9028Q2MDacHAT)
+[5A. ES9028Q2M DAC HAT $49.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9028Q2MDacHAT)
 
 ![ES9028Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9028Q2MDacHAT/ES9028Q2MdacHAT.jpg)
 
-[A6. I/V STD standard OPA I/V stage $35.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
+[6A. I/V STD standard OPA I/V stage $35.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
 
 ![I/V STD](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTD.jpg)
 
-[A7. LL1544A Transformer I/V KIT, $19.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/LL1544aTranformerIV)
+[7A. LL1544A Transformer I/V KIT, $19.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/LL1544aTranformerIV)
 
 ![TransformerIvKIT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/LL1544aTranformerIV/LL1544AtransformerIvKIT.jpg)
 
-[A8. ESS controller extension kit $12.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
+[8A. ESS controller extension kit $12.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
 
 ![Controller extension KIT](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESScontrollerExtensionKit.jpg)
 
-[A9. Package of dedicated CCHD957 XO adapter kit lot of 2, $9.5](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/CCHD957adapterKIT)
+[9A. Package of dedicated CCHD957 XO adapter kit lot of 2, $9.5](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/CCHD957adapterKIT)
 
 ![CCHD957 adapter KIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/CCHD957adapterKIT/CCHD957daapterKIT.jpg)
 
-[A10. Package of OPA1622 adapter PCB kit lot of 5, $9.80](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+[10A. Package of OPA1622 adapter PCB kit lot of 5, $9.80](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
 ![OPA1622 adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OPA1622AdapterPcbKitLotOf5.jpg)
 
-[A11.  2” double-ended silver plated U.FL coaxial cable, $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+[11A.  2” double-ended silver plated U.FL coaxial cable, $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
 ![2"U.FL cable](https://github.com/iancanada/DocumentDownload/blob/master/Cables/2inchU.FLcable.jpg)
 
-[A12.  2.5mm metal standoffs for RPI lot of 4 sets, $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
+[12A.  2.5mm metal standoffs for RPI lot of 4 sets, $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
 
 ![2.5mm standoffs](https://github.com/iancanada/DocumentDownload/blob/master/Others/2.5mmMetalStandoffs4Sets.jpg)
 
-[A13. LT3042 low noise regulator PCB, free $0](https://github.com/iancanada/DocumentDownload/tree/master/PowerSupply/LT3042)
+[13A. LT3042 low noise regulator PCB, free $0](https://github.com/iancanada/DocumentDownload/tree/master/PowerSupply/LT3042)
 
 ![LT3042REGP](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/LT3042/LT3042PCB.jpg)
 
-[A14. I/V STD standard I/V stage empty PCB, free $0](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
+[14A. I/V STD standard I/V stage empty PCB, free $0](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
 
 ![I/V STD PCB](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTDemptyPCB.jpg)
 
-[A15. Buffalo I/V Board I/V adapter KIT, $7.50](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
+[15A. Buffalo I/V Board I/V adapter KIT, $7.50](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
 
 ![Buffalo IV adpaterKIT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/BuffaloIVboardAdapterKIT.jpg)
+
+[16A. Pair of Neurik XLR connectors, NC3MAAH, $2.75](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
+
+![XLR connectors](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/NEUTRIK_NC3MAAH.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
