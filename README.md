@@ -80,9 +80,17 @@
 
 ![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiReceiver.jpg)
 
-[19A. ReceiverPi (Regular $58), $25.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
+[19A. ReceiverPi (Regular $58), $48.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
 
 ![ReceiverPi](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPi.jpg)
+
+[20A. TransportPi (Regular $67), $57.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi)
+
+![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPi.jpg)
+
+[21A. GPIO terminator KIT (Regular $6.8), $4.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
+
+![GPIOterminator](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOterminator/21A.GPIOterminator.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
