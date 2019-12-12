@@ -88,9 +88,21 @@
 
 ![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPi.jpg)
 
-[21A. GPIO terminator KIT (Regular $6.8), $4.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
+[21A. GPIO terminator KIT (SMD finished Regular $6.8), $4.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
 
 ![GPIOterminator](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOterminator/21A.GPIOterminator.jpg)
+
+[22A. NDK 2520 XO adapter KIT 4 package (SMD finished, Regular $12.8), $9.9](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/NDK2520XOadapterKIT)
+
+![NDK2520adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/NDK2520XOadapterKIT/22A.NDKadapter.jpg)
+
+[23A. Free ShieldPi PCB (Limit 2 per order, no connector), $0](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPi)
+
+![ShieldPi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPi/23A.ShieldPi.jpg)
+
+[24A. Free I/V STD board finished untested for part (Limit 1 per order, no OPA), $0](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTDs)
+
+![I/VSTDfree](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/24A.IVSTDforPart.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
