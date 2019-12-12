@@ -6,15 +6,15 @@
 
 [Twitter](https://twitter.com/iancanadaTT?lang=en)
 
-# Ian's GB2019 products list (Links below for user's maunal)
+# Ian's GB2020 products list (Links below for user's maunal)
 
-[1A. FifoPi 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $135.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
+[1A. FifoPi Q2 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $135.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
 ![FifoPi](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPi.jpg)
 
-[2A. LifeO4 mkII pure power supply with 5 output rails (no batterty) $189.99](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4PowerSupply)
+[2A. LifeO4 mkII pure power supply with 5 output rails (no batterty) $189.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
 
-![LifePO4 mkII Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/LifePO2mkIIrelease.jpg)
+![LifePO4 mkII Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/pictures/LifePO2mkIIrelease.jpg)
 
 [3A. ESS controller $39.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
 
@@ -68,7 +68,7 @@
 
 ![Buffalo IV adpaterKIT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/BuffaloIVboardAdapterKIT.jpg)
 
-[16A. Pair of Neurik XLR connectors, NC3MAAH, $2.75](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
+[16A. Pair of Neurik XLR connectors, NC3MAAH, $3.75](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
 
 ![XLR connectors](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/NEUTRIK_NC3MAAH.jpg)
 
@@ -79,6 +79,30 @@
 [18A. HDMIpi I2S/DSD/DoP receiver, $25.00](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
 
 ![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiReceiver.jpg)
+
+[19A. ReceiverPi (Regular $58), $48.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
+
+![ReceiverPi](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPi.jpg)
+
+[20A. TransportPi (Regular $67), $57.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi)
+
+![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPi.jpg)
+
+[21A. GPIO terminator KIT (SMD finished Regular $6.8), $4.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
+
+![GPIOterminator](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOterminator/21A.GPIOterminator.jpg)
+
+[22A. NDK 2520 XO adapter KIT 4 in package (SMD finished, Regular $12.8), $9.9](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/NDK2520XOadapterKIT)
+
+![NDK2520adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/NDK2520XOadapterKIT/22A.NDKadapter.jpg)
+
+[23A. Free ShieldPi PCB (Limit 2 per order, no connector), $0](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPi)
+
+![ShieldPi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPi/23A.ShieldPi.jpg)
+
+[24A. Free I/V STD board finished untested for part (Limit 1 per order, no OPA), $0](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTDs)
+
+![I/VSTDfree](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/24A.IVSTDforPart.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
@@ -170,11 +194,15 @@
 
 ![BackDoor](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/SPDIFboard/I2SbackdoorKIT.JPG)
 
-[26. ADM715X ultra-low noise LDO PCB (free) $0.00](https://github.com/iancanada/DocumentDownload/tree/master/PowerSupply/ADM715X)
+[26. ADM715X ultra-low noise LDO PCB (no stock, free) $0.00](https://github.com/iancanada/DocumentDownload/tree/master/PowerSupply/ADM715X)
 
 [     Tutorial of oven SMT assembling](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/SMDtutorial.md)
 
 ![BIIIconnector](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/ADM715X/ADM715X.jpg)
+
+[27. Free Transformer I/V V1.0 (PCB only, limit 1 per order), $0.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/LL1544aTranformerIV)
+
+![FreeTransformerI/V](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/LL1544aTranformerIV/27.FreeTransformerIVPCB.jpg)
 
 
 
