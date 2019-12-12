@@ -12,9 +12,9 @@
 
 ![FifoPi](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPi.jpg)
 
-[2A. LifeO4 mkII pure power supply with 5 output rails (no batterty) $189.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/pictures/LifePO2mkIIrelease.jpg)
+[2A. LifeO4 mkII pure power supply with 5 output rails (no batterty) $189.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
 
-![LifePO4 mkII Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/LifePO2mkIIrelease.jpg)
+![LifePO4 mkII Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/pictures/LifePO2mkIIrelease.jpg)
 
 [3A. ESS controller $39.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
 
