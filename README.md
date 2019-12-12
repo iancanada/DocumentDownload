@@ -68,7 +68,7 @@
 
 ![Buffalo IV adpaterKIT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/BuffaloIVboardAdapterKIT.jpg)
 
-[16A. Pair of Neurik XLR connectors, NC3MAAH, $2.75](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
+[16A. Pair of Neurik XLR connectors, NC3MAAH, $3.75](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards)
 
 ![XLR connectors](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/NEUTRIK_NC3MAAH.jpg)
 
