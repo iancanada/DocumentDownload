@@ -104,9 +104,9 @@
 
 ![I/VSTDfree](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/24A.IVSTDforPart.jpg)
 
-[25A. UcConditioner 5V (Universal, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+[25A. UcConditioner 5V (Universal), $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
-![UcConditioner](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerV7_1.jpg)
+![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerV7_1.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
