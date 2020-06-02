@@ -114,11 +114,11 @@
 
 [28A. UcHybrid 3.3V KIT (for LifePO4 MkIII,II), $45.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcHybrid)
 
+![UcHybrid3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcHybrid/UcHybridShipped.jpg)
+
 [29A. UcAdapter KIT (for LifePO4 MkIII,II), $29.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcAdapterKIT)
 
 ![UcAdapterKIT](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcAdapterKIT/UcAdapterKIT.jpg)
-
-![UcHybrid3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcHybrid/UcHybridShipped.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
