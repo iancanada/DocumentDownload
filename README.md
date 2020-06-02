@@ -112,6 +112,10 @@
 
 ![UcMateConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcMateConditioner/UcMateConditioner.jpg)
 
+[28A. UcHybrid 3.3V KIT (for LifePO4 MkIII,II), $45.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcHybrid)
+
+![UcHybrid3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcHybrid/UcHybridShipped.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
