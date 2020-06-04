@@ -120,7 +120,7 @@
 
 ![UcAdapterKIT](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcAdapterKIT/UcAdapterKIT.jpg)
 
-[30A. ConditionerPi (for Raspberry Pi local GPIO ), $49.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/ConditionerPi)
+[30A. ConditionerPi (power Raspberry Pi at local GPIO ), $49.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/ConditionerPi)
 
 ![ConditionerPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/ConditionerPi/ConditionerPi.jpg)
 
