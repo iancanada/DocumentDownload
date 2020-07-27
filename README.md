@@ -20,9 +20,9 @@
 
 ![ESS controller](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESSC.jpg)
 
-[4A. Dual Mono ES9038Q2M DAC HAT $85.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
+[4A. 9038Q2MPi Dual Mono Plus DAC HAT $85.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
 
-![Dual Mono ES9038Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT/ES9038Q2MdacHAT.jpg)
+![Dual Mono Plus ES9038Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT/9038Q2MPiDmPlus.jpg)
 
 [5A. ES9028Q2M DAC HAT $49.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9028Q2MDacHAT)
 
@@ -107,6 +107,10 @@
 [25A. UcConditioner 5V (Universal), $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
 ![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerV7_1.jpg)
+
+[26A. UcConditioner 3.3V (Universal), $67.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+
+![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditioner3.3.jpg)
 
 [27A. UcMateConditioner 5V KIT (for LifePO4 MkIII,II), $58.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcMateConditioner)
 
