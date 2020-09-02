@@ -128,10 +128,21 @@
 
 ![ConditionerPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/ConditionerPi/ConditionerPi.jpg)
 
-
 [31A. BridgePi USB streamer adapter, $29.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/BridgePi)
 
 ![BridgePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/BridgePi/BridgePi.jpg)
+
+[32A. LinearPi Solo Linear Power supply, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
+
+![LinearPiSolo](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiSolo.jpg)
+
+[33A. LinearPi Dual Linear Power supply, $99.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
+
+![LinearPiDual](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiDual.jpg)
+
+[34A. LinearPi Standoff/Screw Sets, $4.90](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
+
+![LinearPiStandoff](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiStandoffScrewSet.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
