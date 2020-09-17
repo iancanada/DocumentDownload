@@ -10,7 +10,7 @@
 
 [1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $135.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
-![FifoPi](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiq3.jpg)
+![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ3.jpg)
 
 [2A. LifeO4 mkIII pure power supply with 5 output rails (no batterty) $199.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
 
