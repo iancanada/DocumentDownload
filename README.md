@@ -2,15 +2,15 @@
 
 [Ian Group Buy 2019](https://www.diyaudio.com/forums/group-buys/207438-ian-asynchronous-i2s-pdif-fifo-kit-buy-318.html#post5726311)
 
-[My Gallery](https://www.flickr.com/photos/135181977@N06/albums)
+[My Gallery](https://www.flickr.com/photos/135181977@N06)
 
 [Twitter](https://twitter.com/iancanadaTT?lang=en)
 
 # Ian's GB2020 products list (Links below for user's maunal)
 
-[1A. FifoPi Q2 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $135.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
+[1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $135.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
-![FifoPi](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPi.jpg)
+![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ3.jpg)
 
 [2A. LifeO4 mkIII pure power supply with 5 output rails (no batterty) $199.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
 
