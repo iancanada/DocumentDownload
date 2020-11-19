@@ -88,11 +88,11 @@
 
 ![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPi.jpg)
 
-[21A. GPIO terminator KIT (SMD finished Regular $6.8), $4.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
+[21A. GPIO terminator KIT (SMD finished Regular, $6.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
 
 ![GPIOterminator](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOterminator/21A.GPIOterminator.jpg)
 
-[22A. NDK 2520 XO adapter KIT 4 in package (SMD finished, Regular $12.8), $9.9](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/NDK2520XOadapterKIT)
+[22A. NDK 2520 XO adapter KIT 4 in package (SMD finished), $12.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/NDK2520XOadapterKIT)
 
 ![NDK2520adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/NDK2520XOadapterKIT/22A.NDKadapter.jpg)
 
