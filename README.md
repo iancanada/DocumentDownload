@@ -80,19 +80,19 @@
 
 ![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiReceiver.jpg)
 
-[19A. ReceiverPi (Regular $58), $48.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
+[19A. ReceiverPi, $58.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
 
 ![ReceiverPi](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPi.jpg)
 
-[20A. TransportPi (Regular $67), $57.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi)
+[20A. TransportPi, $67.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi)
 
 ![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPi.jpg)
 
-[21A. GPIO terminator KIT (SMD finished Regular $6.8), $4.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
+[21A. GPIO terminator KIT (SMD finished Regular, $6.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
 
 ![GPIOterminator](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOterminator/21A.GPIOterminator.jpg)
 
-[22A. NDK 2520 XO adapter KIT 4 in package (SMD finished, Regular $12.8), $9.9](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/NDK2520XOadapterKIT)
+[22A. NDK 2520 XO adapter KIT 4 in package (SMD finished), $12.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/NDK2520XOadapterKIT)
 
 ![NDK2520adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/NDK2520XOadapterKIT/22A.NDKadapter.jpg)
 
