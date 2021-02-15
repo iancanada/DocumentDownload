@@ -1,4 +1,5 @@
 [Order Form Download](https://github.com/iancanada/DocumentDownload/blob/master/OrderFormEmpty.xls)
+
 [YouTube Channel](https://www.youtube.com/channel/UC753W2FbBiy-PHSJB-8PgPg)
 
 [My Gallery](https://www.flickr.com/photos/135181977@N06)
@@ -71,13 +72,13 @@
 
 ![XLR connectors](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/NEUTRIK_NC3MAAH.jpg)
 
-[17A. HDMIpi I2S/DSD/DoP to HDMI transmitter, $35.00](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
+[17A. HDMIpi MkII I2S/DSD/DoP to HDMI transmitter, $38.50](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
 
-![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiTransmitter.jpg)
+![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiMkIITransmitter.jpg)
 
 [18A. HDMIpi I2S/DSD/DoP receiver, $25.00](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
 
-![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiReceiver.jpg)
+![HDMIpi Receiver](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiReceiver.jpg)
 
 [19A. ReceiverPi, $58.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
 
