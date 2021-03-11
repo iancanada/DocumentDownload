@@ -28,9 +28,9 @@
 
 ![ES9028Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9028Q2MDacHAT/ES9028Q2MdacHAT.jpg)
 
-[6A. I/V STD standard OPA I/V stage $35.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
+[6A. I/V STD MkII standard OPA I/V stage $39.30](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
 
-![I/V STD](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTD.jpg)
+![I/V STD](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTDMKII.jpg)
 
 [7A. LL1544A Transformer I/V KIT, $19.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/LL1544aTranformerIV)
 
