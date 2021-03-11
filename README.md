@@ -30,7 +30,7 @@
 
 [6A. I/V STD MkII standard OPA I/V stage $39.30](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
 
-![I/V STD](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IVSTDMKII.jpg)
+![I/V STDMkII](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IvStdMkII.jpg)
 
 [7A. LL1544A Transformer I/V KIT, $19.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/LL1544aTranformerIV)
 
