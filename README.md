@@ -12,6 +12,10 @@
 
 ![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ3.jpg)
 
+[1B. ReClockPi low noise secondary reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
+
+![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/ReClockPi/ReClockPi.jpg)
+
 [2A. LifeO4 mkIII pure power supply with 5 output rails (no batterty) $199.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
 
 ![LifePO4 mkII Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/pictures/LifePO4MKIII.jpg)
