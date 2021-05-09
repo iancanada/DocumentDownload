@@ -12,7 +12,7 @@
 
 ![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ3.jpg)
 
-[1B. ReClockPi low noise secondary reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
+[1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
 
 ![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/ReClockPi/ReClockPi.jpg)
 
