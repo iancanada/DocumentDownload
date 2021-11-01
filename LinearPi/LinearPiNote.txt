@@ -1,5 +1,5 @@
 Possible transformer
 
-Hammond 1182L6
+Hammond 1182L6,1182N6,1182M9
 
 
