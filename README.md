@@ -8,7 +8,7 @@
 
 # Ian's GB2020 products list (Links below for user's maunal)
 
-[1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $135.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
+[1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $175.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
 ![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ3.jpg)
 
