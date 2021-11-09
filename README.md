@@ -172,6 +172,18 @@
 
 ![SMAcable10](https://github.com/iancanada/DocumentDownload/blob/master/Cables/40A_SMA_Cable_10.jpg)
 
+[41A. UcPure ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
+
+![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41A_UcPure.jpg)
+
+[42A. LifePO4 Mini 3.3V power supply, $56.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini3.3V)
+
+![LifePO4Mini3.3](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini3.3V/42A_LifePO4Mini3.3V.jpg)
+
+[43A. LifePO4 Mini 6.6V power supply, $56.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini6.6V)
+
+![LifePO4Mini6.6](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini6.6V/43A_LifePO4Mini6.6.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
