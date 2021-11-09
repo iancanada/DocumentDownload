@@ -180,9 +180,18 @@
 
 ![LifePO4Mini3.3](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini3.3V/42A_LifePO4Mini3.3V.jpg)
 
-[43A. LifePO4 Mini 6.6V power supply, $56.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini6.6V)
+[43A. LifePO4 Mini 6.6V power supply, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini6.6V)
 
 ![LifePO4Mini6.6](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini6.6V/43A_LifePO4Mini6.6.jpg)
+
+[44A. Each 26650 battery holder with assembling service, $5.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![26650Holder](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/44A_26650BatteryHolder.jpg)
+
+[45A. Each SMT XO socket replacement for FifoPi, $3.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![XOsocket](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/45A_FifoPi_XOsocket.jpg)
+
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
