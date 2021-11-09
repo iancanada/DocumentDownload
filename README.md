@@ -164,6 +164,14 @@
 
 ![OvenKit](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OvenKit/38A_OVEN_KIT.jpg)
 
+[39A. 6" SMA cable RG316 silver plated, $7.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![SMAcable6](https://github.com/iancanada/DocumentDownload/blob/master/Cables/39A_SMA_cable_6.jpg)
+
+[40A. 10" SMA cable RG316 silver plated, $9.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![SMAcable6](https://github.com/iancanada/DocumentDownload/blob/master/Cables/39A_SMA_cable_10.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
