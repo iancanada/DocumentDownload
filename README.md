@@ -156,9 +156,13 @@
 
 ![SinePiKIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/36A_SinePi_SMTfinishedKIT.jpg)
 
-[37A. SinePi fully finished RF relay, $125.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
+[37A. SinePi fully finished (RF relay), $125.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
 
 ![SinePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/37A_SinePi_FullyFinished.jpg)
+
+[38A. Oven KIT for SC-Cut crystal, $39.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/OvenKit)
+
+![OvenKit](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OvenKit/38A_OVEN_KIT.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
