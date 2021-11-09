@@ -152,6 +152,10 @@
 
 ![StationPi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPi/StationPi.jpg)
 
+[36A. SinePi SMT finished KIT, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
+
+![SinePiKIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/36A_SinePi_SMTfinishedKIT.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
