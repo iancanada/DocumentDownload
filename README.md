@@ -8,7 +8,7 @@
 
 # Ian's GB2020 products list (Links below for user's maunal)
 
-[1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $135.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
+[1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $175.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
 ![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ3.jpg)
 
@@ -151,6 +151,47 @@
 [35A. StationPi PCB KIT, $35.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
 
 ![StationPi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPi/StationPi.jpg)
+
+[36A. SinePi SMT finished KIT, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
+
+![SinePiKIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/36A_SinePi_SMTfinishedKIT.jpg)
+
+[37A. SinePi fully finished (RF relay), $125.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
+
+![SinePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/37A_SinePi_FullyFinished.jpg)
+
+[38A. Oven KIT for SC-Cut crystal, $39.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/OvenKit)
+
+![OvenKit](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OvenKit/38A_OVEN_KIT.jpg)
+
+[39A. 6" SMA cable RG316 silver plated, $7.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![SMAcable6](https://github.com/iancanada/DocumentDownload/blob/master/Cables/39A_SMA_cable_6.jpg)
+
+[40A. 10" SMA cable RG316 silver plated, $9.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![SMAcable10](https://github.com/iancanada/DocumentDownload/blob/master/Cables/40A_SMA_Cable_10.jpg)
+
+[41A. UcPure ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
+
+![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41A_UcPure.jpg)
+
+[42A. LifePO4 Mini 3.3V power supply, $56.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini3.3V)
+
+![LifePO4Mini3.3](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini3.3V/42A_LifePO4Mini3.3V.jpg)
+
+[43A. LifePO4 Mini 6.6V power supply, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini6.6V)
+
+![LifePO4Mini6.6](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini6.6V/43A_LifePO4Mini6.6.jpg)
+
+[44A. Each 26650 battery holder with assembling service, $5.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![26650Holder](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/44A_26650BatteryHolder.jpg)
+
+[45A. Each SMT XO socket replacement for FifoPi, $3.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![XOsocket](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/45A_FifoPi_XOsocket.jpg)
+
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
