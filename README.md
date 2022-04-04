@@ -8,7 +8,7 @@
 
 [Twitter](https://twitter.com/iancanadaTT?lang=en)
 
-# Ian's GB2022 products list (Links below for user's maunal)
+# Ian's GB2022 products list (Click links for user's maunals)
 
 [1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $175.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
