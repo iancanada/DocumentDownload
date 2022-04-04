@@ -1,3 +1,5 @@
+# How to order?  Download the order form and then send it back to me at iancanada.mail@gmail.com
+
 [Order Form Download](https://github.com/iancanada/DocumentDownload/blob/master/OrderFormEmpty.xls)
 
 [YouTube Channel](https://www.youtube.com/channel/UC753W2FbBiy-PHSJB-8PgPg)
