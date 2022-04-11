@@ -1,0 +1,337 @@
+#platform "Gen4-uLCD-28PT"
+#inherit "4DGL_16bitColours.fnc"
+#inherit "FONT4.fnt"
+/*
+ * StationPiDisplay.4dg
+ * Source code of StationPi Pro touch screen display/controller
+ * Tested on GEN4-ULCD-28PT or GEN4-ULCD-28PT
+ * Copyright (c) 2020 IanCanada
+ * Author     : Ian Jin
+ * V1.0
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+#CONST
+    screenW 320
+    screenH 240
+    iconW 75
+    iconH 100
+    iconN 5
+    iconCol 4
+    iconRow 2
+    EN 1      //enable
+    DIS 0     //disable
+    RPi 0
+    OPT 1
+    RCA 2
+    HDMI 3
+    USB 4
+    fileName "Cfg.txt"
+    inputSourceDefault RPi
+    EXTRPIPIN IO1_PIN
+    OPTRCAPIN IO2_PIN
+    SPDIFPCMPIN IO3_PIN
+    USBPIN IO4_PIN
+#END
+
+#DATA
+    byte posX 4,83,162,241,4,83,162,241    // icon positions X
+    byte posY 12,12,12,12,128,128,128,128  // icon positions Y
+    word label label0,label1,label2,label3,label4,label5,label6,label7 // labels of each icon
+    byte label0 "RPi\0"
+    byte label1 "OPT\0"
+    byte label2 "RCA\0"
+    byte label3 "HDMI\0"
+    byte label4 "USB\0"
+    byte label5 "\0"
+    byte label6 "\0"
+    byte label7 "\0"
+#END
+
+var inputSource:=inputSourceDefault; //default input as RPi
+var sdFlg:=0;           //0:no SD 1:with SD
+var hFile,fBuffer[100];
+var d,pStr; //dtat and pointer to a string, for temporal use
+var ch;
+var combuf[256];  //loop buffer for com1 port receiving
+
+func main()
+    var touchPosition;
+    //setup
+    touch_Set(TOUCH_ENABLE);
+    com_SetBaud(COM1, 960);
+    com1_Init(combuf, 100, 0);  //initial loop buffer to avoid data lossing
+    gfx_ScreenMode(LANDSCAPE) ; // change manually if orientation change
+    gfx_Set(BACKGROUND_COLOUR, WHITE);
+    gfx_Cls();
+    cfgLoad();
+    screenRefresh(inputSource);
+    cfgInitial();
+    cfgApply();
+
+    repeat  //loop
+        touchPosition:=touchScan();
+        if (touchPosition!=-1 && touchPosition<iconN)
+            inputSource:=touchPosition;
+            cfgSave();
+            screenRefresh(inputSource);
+            cfgApply();
+        endif
+        ch:= serin1();
+        if (ch != -1)
+            fifoMessageStateMachine(ch);
+        endif
+    forever
+
+endfunc
+
+func screenRefresh(var highlight)
+    var i:=0;
+    gfx_Set(BACKGROUND_COLOUR, WHITE);
+    while (i<iconN)
+        if(i==highlight)
+            iconShow(posX[i],posY[i],label[i],EN);
+        else
+            iconShow(posX[i],posY[i],label[i],DIS);
+        endif
+        i++;
+    wend
+endfunc
+
+func touchScan()
+    var position:=-1;  //no valid touch event as default
+    var touchStatus,touchX,touchY;
+    touchStatus:=touch_Get(TOUCH_STATUS);
+    touchX:=touch_Get(TOUCH_GETX);
+    touchY:=touch_Get(TOUCH_GETY);
+    if(touchStatus==1 && touchX<screenW && touchY<screenH)
+        position:=touchX*iconCol/screenW;
+        if(touchY>screenH/iconRow)
+            position+=4;
+        endif
+    endif
+    return position;
+endfunc
+
+func iconShow(var x,var y,var label, var mode)
+    if(mode==EN)
+        gfx_RectangleFilled(x,y,x+iconW,y+iconH,ORANGE);
+        gfx_RectangleFilled(x+50,y+20,x+50+15,y+20+10,LIGHTGREEN);
+    else
+        gfx_RectangleFilled(x,y,x+iconW,y+iconH,GRAY);
+    endif
+    txt_Set(TEXT_COLOUR, WHITE);
+    txt_Set(TEXT_OPACITY, TRANSPARENT);
+    txt_Set(FONT_ID, FONT4);
+
+    gfx_MoveTo(x+10,y+50);
+    print([STR]label) ;      // replace with your code
+endfunc
+
+func cfgLoad() //load config to sd card
+    inputSource:=inputSourceDefault;
+    if(file_Mount())
+        sdFlg:=1;
+        if(file_Exists(fileName))
+            hFile:=file_Open(fileName, 'r');
+            file_Rewind(hFile);  //go file start position
+            file_GetS(fBuffer,50,hFile); //get first line
+            pStr:=str_Ptr(fBuffer); str_GetD(&pStr, &d);
+            if(d<iconN)
+                inputSource:=d;
+            endif
+            file_Close(hFile);
+        else
+            cfgSave();
+        endif
+    else
+        sdFlg:=0;
+    endif
+endfunc
+
+func cfgSave()  //save config to a sd card
+    if(sdFlg!=0)
+        hFile:=file_Open(fileName, 'a');
+        file_Rewind(hFile); //go file start position
+        to(fBuffer);print(inputSource,"\n");file_PutS(fBuffer,hFile);
+        file_Close(hFile);
+    endif
+endfunc
+
+func cfgInitial()
+    pin_Set(OUTPUT,EXTRPIPIN);
+    pin_Set(OUTPUT,OPTRCAPIN);
+    pin_Set(OUTPUT,SPDIFPCMPIN);
+    pin_Set(OUTPUT,USBPIN);
+endfunc
+
+func cfgApply()
+    switch(inputSource)
+        case RPi:
+        default:
+            pin_LO(EXTRPIPIN);pin_LO(OPTRCAPIN);pin_LO(SPDIFPCMPIN);pin_LO(USBPIN);break;
+        case OPT:
+            pin_LO(EXTRPIPIN);pin_HI(OPTRCAPIN);pin_HI(SPDIFPCMPIN);pin_LO(USBPIN);break;
+        case RCA:
+            pin_LO(EXTRPIPIN);pin_LO(OPTRCAPIN);pin_HI(SPDIFPCMPIN);pin_LO(USBPIN);break;
+        case HDMI:
+            pin_HI(EXTRPIPIN);pin_LO(OPTRCAPIN);pin_LO(SPDIFPCMPIN);pin_LO(USBPIN);break;
+         case USB:
+            pin_LO(EXTRPIPIN);pin_LO(OPTRCAPIN);pin_LO(SPDIFPCMPIN);pin_HI(USBPIN);break;
+    endswitch
+endfunc
+
+//FIFO display ==========================================================================
+
+#CONST
+    waitState 0
+    getCommandState 1
+    getDataState 2
+    UNLOCK      '0'
+    NOSIGNAL    '1'
+    WRONGSIGNAL '2'
+    I2S         '3'
+    DSD         '4'
+    DELAYTIME   '5'
+    XONUMBER    '6'
+    MASTER      '7'
+    SLAVE       '8'
+    FMCK        '9'
+    CLEAR       'a'
+    fifoX 83
+    fifoY 127
+    xoW iconW
+    xoH iconH/4-2
+    formatW iconW*2+5
+    formatH iconH/2-5
+    XO1 0
+    XO2 1
+#END
+
+var state:=waitState;
+var command;
+var dataStr[50];
+var p;
+var xo:=XO1;
+
+func fifoMessageStateMachine(var ch)
+    switch(state)
+        case waitState:
+            if(ch=='@')
+                command:=' ';
+                state:=getCommandState;
+            endif
+        break;
+        case getCommandState:
+            if(ch=='$')
+                dataStr[0]:=0;
+                p:=str_Ptr(dataStr);
+                state:=getDataState;
+            else
+                command:=ch;
+            endif
+        break;
+        case getDataState:
+            if(ch=='#')
+                str_PutByte(p++,0);
+                state:=waitState;
+                fifoMessageShow();
+            else
+                str_PutByte(p++,ch);
+            endif
+        break;
+        default:
+        break;
+    endswitch
+endfunc
+
+func fifoMessageShow()
+    var x:=fifoX;
+    var y:=fifoY;
+    //print("\n ",[CHR]command," ",[STR] dataStr);
+    txt_Set(TEXT_COLOUR, BLACK);
+    txt_Set(TEXT_OPACITY, TRANSPARENT);
+    txt_Set(TEXT_HIGHLIGHT,WHITE);
+    txt_Set(FONT_ID, FONT4);
+    txt_Set(TEXT_WIDTH,1); txt_Set(TEXT_HEIGHT,1);
+
+    switch(command)
+        case UNLOCK:
+            gosub iniFormatDisplay;
+            print("UN-LOCK");
+            txt_Set(TEXT_HEIGHT,1);
+        break;
+        case NOSIGNAL:
+            gosub iniFormatDisplay;
+            print("MUTE");
+            txt_Set(TEXT_HEIGHT,1);
+        break;
+        case WRONGSIGNAL:
+            gosub iniFormatDisplay;
+            print("WRONG-SIGNAL");
+            txt_Set(TEXT_HEIGHT,1);
+        break;
+        case I2S:
+            gosub iniFormatDisplay;
+            print("PCM ",[STR] dataStr);
+            txt_Set(TEXT_HEIGHT,1);
+        break;
+        case DSD:
+            gosub iniFormatDisplay;
+            print("DSD ",[STR] dataStr);
+            txt_Set(TEXT_HEIGHT,1);
+        break;
+        case DELAYTIME:
+            x:=x+iconW*2+24; y:=y+10;
+            gfx_MoveTo(x,y);print("FIFO");
+            gfx_MoveTo(x,y+xoH-4);print([STR] dataStr);
+        break;
+        case XONUMBER:
+            x:=fifoX+5;y:=fifoY+50;
+            gfx_RectangleFilled(x,y,x+xoW,y+xoH+5+xoH,WHITE);
+            gfx_MoveTo(x+15,y+5); print("XO1:");
+            gfx_MoveTo(x+15,y+5+xoH+5); print("XO2:");
+            if((dataStr[0]&0xff)=='2')
+                xo:=XO2;
+                gfx_Rectangle(x, y+xoH+5, x+xoW,y+xoH+5+xoH,BLACK);
+            else
+                xo:=XO1;
+                gfx_Rectangle(x, y, x+xoW,y+xoH,BLACK);
+            endif
+        break;
+        case FMCK:
+            x:=fifoX+xoW+5+6;y:=fifoY+50;
+            if(xo==XO2)
+                y:=y+xoH+5;
+            endif
+            gfx_RectangleFilled(x,y,x+xoW*2,y+xoH,WHITE);
+            gfx_MoveTo(x+15,y+5);print([STR] dataStr);
+        break;
+        default:
+        break;
+    endswitch
+    return;
+
+    iniFormatDisplay:
+        gfx_RectangleFilled(x,y,x+formatW,y+formatH,WHITE);
+        txt_Set(TEXT_WIDTH,1); txt_Set(TEXT_HEIGHT,2);
+        gfx_MoveTo(x+2+5,y+10);
+    endsub;
+endfunc
+
