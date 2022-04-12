@@ -90,9 +90,9 @@
 
 ![ReceiverPi](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPi.jpg)
 
-[20A. TransportPi, $79.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi)
+[20A. TransportPi MkII, $79.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi)
 
-![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPi.jpg)
+![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiMkII.jpg)
 
 [21A. GPIO terminator KIT (SMD finished Regular, $6.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
 
