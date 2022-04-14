@@ -198,6 +198,10 @@
 
 ![XOsocket](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/45A_FifoPi_XOsocket.jpg)
 
+[46A. DDDAC U.FL input adapter fully finished with an additional free PCB, $18.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![DDDACadapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/46A_DDDAC_UFL_Adapter.jpg)
+
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
