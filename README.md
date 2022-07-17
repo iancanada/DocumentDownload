@@ -1,5 +1,7 @@
-# How to order?  Download the order form and then send it back to me at iancanada.mail@gmail.com
-Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/227_ian-canada
+# How to order?  
+# Download the order form below and then send it back to me at iancanada.mail@gmail.com
+
+# Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/227_ian-canada
 
 [Order Form Download](https://github.com/iancanada/DocumentDownload/blob/master/OrderFormEmpty.xls)
 
@@ -9,7 +11,7 @@ Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/22
 
 [Twitter](https://twitter.com/iancanadaTT?lang=en)
 
-# Ian's GB2022 products list (Click links for user's maunals)
+# IanCanada products list (Click links for user's maunals)
 
 [1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $175.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
