@@ -1,4 +1,7 @@
-# How to order?  Download the order form and then send it back to me at iancanada.mail@gmail.com
+# How to order?  
+# Download the order form below and then send it back to me at iancanada.mail@gmail.com
+
+# Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/227_ian-canada
 
 [Order Form Download](https://github.com/iancanada/DocumentDownload/blob/master/OrderFormEmpty.xls)
 
@@ -8,7 +11,12 @@
 
 [Twitter](https://twitter.com/iancanadaTT?lang=en)
 
-# Ian's GB2022 products list (Click links for user's maunals)
+# IanCanada products list (Click links for user's maunals)
+
+
+[1C. FifoPiMa Master mode Raspberry Pi I2S/DSD/DoP Re-clocker with  dual XO $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiMa)
+
+![FifoPiMa](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiMa/FifoPiMa.jpg)
 
 [1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $175.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
 
@@ -58,7 +66,9 @@
 
 ![2"U.FL cable](https://github.com/iancanada/DocumentDownload/blob/master/Cables/2inchU.FLcable.jpg)
 
-[12A.  2.5mm metal standoffs for RPI lot of 4 sets, $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
+[12A.  2.5mmx13mm metal standoffs for RPI lot of 4 sets, $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
+
+[12B.  2.5mmx11mm metal standoffs for RPI lot of 4 sets, $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Others)
 
 ![2.5mm standoffs](https://github.com/iancanada/DocumentDownload/blob/master/Others/2.5mmMetalStandoffs4Sets.jpg)
 
@@ -206,6 +216,13 @@
 
 ![DDDACadapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/46A_DDDAC_UFL_Adapter.jpg)
 
+[47A. UcPi Universal Ultracapacitor RPi Power Supply with ultracapacitors pre-installed, $63.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPi)
+
+![UcPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPi/UcPi.jpg)
+
+[48A. PurePi 5V+3.3V ultracapacitor/LifePO4 battery power supply combowith ultracapacitors/battery holders pre-installed, $86.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/PurePi)
+
+![PurePi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/PurePi/PurePi.jpg)
 
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
