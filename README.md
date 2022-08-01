@@ -108,6 +108,10 @@
 
 ![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiMkII.jpg)
 
+[20B. TransportPi Digi,Audiophile grade master mode digi transport, $95.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiDigi)
+
+![TransportPiDigi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiDigi/TransportPiDigi.jpg)
+
 [21A. GPIO terminator KIT (SMD finished Regular, $6.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
 
 ![GPIOterminator](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOterminator/21A.GPIOterminator.jpg)
@@ -216,7 +220,7 @@
 
 ![DDDACadapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/46A_DDDAC_UFL_Adapter.jpg)
 
-[47A. UcPi Universal Ultracapacitor RPi Power Supply with ultracapacitors pre-installed, $63.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPi)
+[47A. UcPi Universal Ultracapacitor RPi Power Supply with ultracapacitors pre-installed, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPi)
 
 ![UcPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPi/UcPi.jpg)
 
