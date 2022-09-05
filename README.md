@@ -228,6 +228,10 @@
 
 ![PurePi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/PurePi/PurePi.jpg)
 
+[49A. MonitorPi RaspberryPi OLED audio display/analyzer, $49.00](https://github.com/iancanada/DocumentDownload/tree/master/MonitorPi)
+
+![MonitorPi](https://github.com/iancanada/DocumentDownload/blob/master/MonitorPi/MonitorPi.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
