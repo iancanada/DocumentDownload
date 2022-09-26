@@ -172,7 +172,10 @@
 
 ![LinearPiStandoff](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiStandoffScrewSet.jpg)
 
+
 [35A. StationPi PCB KIT, $35.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
+
+[35C. StationPi fully finished, $48.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
 
 ![StationPi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPi/StationPi.jpg)
 
