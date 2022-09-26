@@ -92,6 +92,10 @@
 
 ![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiMkIITransmitter.jpg)
 
+[17B. HdmiPi Pro Flagship HDMI transport interface, $125](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro)
+
+![HdmiPiPro](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro/HdmiPiPro.jpg)
+
 [18A. HDMIpi I2S/DSD/DoP receiver, $25.00](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
 
 ![HDMIpi Receiver](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiReceiver.jpg)
