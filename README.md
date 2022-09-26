@@ -14,13 +14,13 @@
 # IanCanada products list (Click links for user's maunals)
 
 
-[1C. FifoPiMa Master mode Raspberry Pi I2S/DSD/DoP Re-clocker with  dual XO $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiMa)
+[1C. FifoPiMa V1.5 Master mode Raspberry Pi I2S/DSD/DoP Re-clocker with  dual XO $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiMa)
 
 ![FifoPiMa](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiMa/FifoPiMa.jpg)
 
-[1A. FifoPi Q3 768KHz I2S/DSD/DoP FIFO with isolator and dual XO $175.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi)
+[1D. FifoPi Q7 Flagship I2S/DSD/DoP FIFO with isolator,re-clocker and dual XO $189.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiQ7)
 
-![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ3.jpg)
+![FifoPiQ7](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ7/FifoPiQ7.jpg)
 
 [1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
 
@@ -172,7 +172,10 @@
 
 ![LinearPiStandoff](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiStandoffScrewSet.jpg)
 
+
 [35A. StationPi PCB KIT, $35.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
+
+[35C. StationPi fully finished, $48.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
 
 ![StationPi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPi/StationPi.jpg)
 
