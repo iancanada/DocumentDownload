@@ -46,6 +46,10 @@
 
 ![I/V STDMkII](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IvStdMkII.jpg)
 
+[6B. OPA861 zero feedback balanced I/V board $129](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/OPA861IV)
+
+![OPA861IV](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/OPA861IV/OPA861.jpg)
+
 [7A. LL1544A Transformer I/V KIT, $19.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/LL1544aTranformerIV)
 
 ![TransformerIvKIT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/LL1544aTranformerIV/LL1544AtransformerIvKIT.jpg)
@@ -177,7 +181,7 @@
 ![LinearPiStandoff](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiStandoffScrewSet.jpg)
 
 
-[35A. StationPi PCB KIT, $35.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
+[35A. StationPi PCB KIT, $25.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
 
 [35C. StationPi fully finished, $48.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
 
