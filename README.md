@@ -211,9 +211,9 @@
 
 ![SMAcable10](https://github.com/iancanada/DocumentDownload/blob/master/Cables/40A_SMA_Cable_10.jpg)
 
-[41A. UcPure ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
+[41B. UcPureMkII ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
 
-![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41A_UcPure.jpg)
+![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41B_UcPureMkII.jpg)
 
 [42A. LifePO4 Mini 3.3V power supply, $56.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini3.3V)
 
