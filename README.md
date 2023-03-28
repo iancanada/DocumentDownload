@@ -250,6 +250,10 @@
 
 ![GPIOextension](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOextensionKIT/GPIOextender.jpg)
 
+[51A. Acrylic protection cover KIT of FifoPi stack (Clear),  $8.9](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![AcrylicCover](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/51A_AcrylicCover.jpg)
+
 [1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
