@@ -136,9 +136,13 @@
 
 ![ShieldPi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPi/23A.ShieldPi.jpg)
 
-[23B. ShieldPi Pro multi-functional EMI shield/power filter, $46](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
+[23B. ShieldPi Pro multi-functional EMI shield/power filter, $39](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
 
 ![ShieldPiPro](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiPro.jpg)
+
+[23C. ShieldPi Pro MkII multi-functional EMI shield/power filter, $49](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
+
+![ShieldPiProMkII](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiProMkII.jpg)
 
 [24A. Free I/V STD board finished untested for part (Limit 1 per order, no OPA), $0](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTDs)
 
