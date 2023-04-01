@@ -120,6 +120,10 @@
 
 ![TransportPiDigi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiDigi/TransportPiDigi.jpg)
 
+[20C. TransportPi AES, Flagship AES/SPDIF stransport, $139.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiAES)
+
+![TransportPiAES](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiAES/TransportPiAES.jpg)
+
 [21A. GPIO terminator KIT (SMD finished Regular, $6.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
 
 ![GPIOterminator](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOterminator/21A.GPIOterminator.jpg)
@@ -132,9 +136,13 @@
 
 ![ShieldPi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPi/23A.ShieldPi.jpg)
 
-[23B. ShieldPi Pro multi-functional EMI shield/power filter, $46](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
+[23B. ShieldPi Pro multi-functional EMI shield/power filter, $39](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
 
 ![ShieldPiPro](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiPro.jpg)
+
+[23C. ShieldPi Pro MkII multi-functional EMI shield/power filter, $49](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
+
+![ShieldPiProMkII](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiProMkII.jpg)
 
 [24A. Free I/V STD board finished untested for part (Limit 1 per order, no OPA), $0](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTDs)
 
