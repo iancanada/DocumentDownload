@@ -173,13 +173,13 @@
 
 ![BridgePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/BridgePi/BridgePi.jpg)
 
-[32A. LinearPi Solo Linear Power supply, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
+[32A. LinearPi MkII Solo Linear Power supply, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
 
-![LinearPiSolo](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiSolo.jpg)
+![LinearPiSolo](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiMkIISolo.jpg)
 
-[33A. LinearPi Dual Linear Power supply, $99.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
+[33A. LinearPi MkII Dual Linear Power supply, $109.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
 
-![LinearPiDual](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiDual.jpg)
+![LinearPiDual](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiMkIIDual.jpg)
 
 [34A. LinearPi Standoff/Screw Sets, $4.90](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
 
