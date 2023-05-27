@@ -1,7 +1,7 @@
 # How to order?  
-## Download the order form below and then send it back to me at iancanada.mail@gmail.com
+### Download the order form below and then send it back to me at iancanada.mail@gmail.com
 
-## Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/227_ian-canada
+### Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/227_ian-canada
 
 [Order Form Download](https://github.com/iancanada/DocumentDownload/blob/master/OrderFormEmpty.xls)
 
