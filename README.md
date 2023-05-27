@@ -23,6 +23,10 @@
 
 ![FifoPiMa](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiMa/FifoPiMa.jpg)
 
+[#1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
+
+![ReClockPi](https://github.com/iancanada/DocumentDownload/blob/master/ReClockPi/ReClockPi.jpg)
+
 [#1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
@@ -195,11 +199,6 @@
 ![DDDACadapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/46A_DDDAC_UFL_Adapter.jpg)
 
 ## 7. Re-Clocker accessories
-
-[#1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
-
-![ReClockPi](https://github.com/iancanada/DocumentDownload/blob/master/ReClockPi/ReClockPi.jpg)
-
 [#36A. SinePi SMT finished KIT, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
 
 ![SinePiKIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/36A_SinePi_SMTfinishedKIT.jpg)
