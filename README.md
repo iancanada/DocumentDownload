@@ -158,7 +158,43 @@
 
 ![ConditionerPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/ConditionerPi/ConditionerPi.jpg)
 
-## 5. Re-Clocker accessories
+## 5. Raspberry Pi accessories
+[49A. MonitorPi RaspberryPi OLED audio display/analyzer, $49.00](https://github.com/iancanada/DocumentDownload/tree/master/MonitorPi)
+![MonitorPi](https://github.com/iancanada/DocumentDownload/blob/master/MonitorPi/MonitorPi.jpg)
+
+[50A. Universal RaspberryPi GPIO extension KIT,6"&12",  $29.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOextensionKIT)
+![GPIOextension](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOextensionKIT/GPIOextender.jpg)
+
+[#23B. ShieldPi Pro multi-functional EMI shield/power filter, $39](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
+![ShieldPiPro](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiPro.jpg)
+
+[#23C. ShieldPi Pro MkII multi-functional EMI shield/power filter, $49](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
+![ShieldPiProMkII](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiProMKII.jpg)
+
+[#3. IsolatorPi II RsapberryPi/ODROID I2S/DSD/DoP isolator $49.00](https://github.com/iancanada/DocumentDownload/tree/master/IsolatorPi)
+![IsolatorPi](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/IsolatorPi/IsolatorPiII.jpg)
+
+[#4. DoP to DSD decoder daught board $39.00](https://github.com/iancanada/DocumentDownload/tree/master/DoP%20Decoder)
+![Dop Decoder](https://github.com/iancanada/DocumentDownload/blob/master/DoP%20Decoder/DoP_Decoder1.jpg)
+
+[#51A. Acrylic protection cover KIT of FifoPi stack (Clear),  $8.9](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+![AcrylicCover](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/51A_AcrylicCover.jpg)
+
+## 6. Adapters
+[#35A. StationPi PCB KIT(unassembled), $25.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
+[#35C. StationPi SMT fully finished, $48.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
+![StationPiSMT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPi/StationPiSMT.jpg)
+
+[#35B. StationPi Pro Fully finished, $76.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPiPro)
+![StationPiPro](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPiPro/StationPiPro.jpg)
+
+[#31A. BridgePi USB streamer adapter, $29.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/BridgePi)
+![BridgePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/BridgePi/BridgePi.jpg)
+
+[#46A. DDDAC U.FL input adapter fully finished with an additional free PCB, $18.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+![DDDACadapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/46A_DDDAC_UFL_Adapter.jpg)
+
+## 7. Re-Clocker accessories
 
 [#1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
 
@@ -207,42 +243,6 @@
 [#40A. 10" SMA cable RG316 silver plated, $9.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
 ![SMAcable10](https://github.com/iancanada/DocumentDownload/blob/master/Cables/40A_SMA_Cable_10.jpg)
-
-## 6. Raspberry Pi accessories
-[49A. MonitorPi RaspberryPi OLED audio display/analyzer, $49.00](https://github.com/iancanada/DocumentDownload/tree/master/MonitorPi)
-![MonitorPi](https://github.com/iancanada/DocumentDownload/blob/master/MonitorPi/MonitorPi.jpg)
-
-[50A. Universal RaspberryPi GPIO extension KIT,6"&12",  $29.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOextensionKIT)
-![GPIOextension](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOextensionKIT/GPIOextender.jpg)
-
-[#23B. ShieldPi Pro multi-functional EMI shield/power filter, $39](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
-![ShieldPiPro](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiPro.jpg)
-
-[#23C. ShieldPi Pro MkII multi-functional EMI shield/power filter, $49](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
-![ShieldPiProMkII](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiProMKII.jpg)
-
-[#3. IsolatorPi II RsapberryPi/ODROID I2S/DSD/DoP isolator $49.00](https://github.com/iancanada/DocumentDownload/tree/master/IsolatorPi)
-![IsolatorPi](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/IsolatorPi/IsolatorPiII.jpg)
-
-[#4. DoP to DSD decoder daught board $39.00](https://github.com/iancanada/DocumentDownload/tree/master/DoP%20Decoder)
-![Dop Decoder](https://github.com/iancanada/DocumentDownload/blob/master/DoP%20Decoder/DoP_Decoder1.jpg)
-
-[#51A. Acrylic protection cover KIT of FifoPi stack (Clear),  $8.9](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
-![AcrylicCover](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/51A_AcrylicCover.jpg)
-
-## 7. Adapters
-[#35A. StationPi PCB KIT(unassembled), $25.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
-[#35C. StationPi SMT fully finished, $48.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPi)
-![StationPiSMT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPi/StationPiSMT.jpg)
-
-[#35B. StationPi Pro Fully finished, $76.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/StationPiPro)
-![StationPiPro](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPiPro/StationPiPro.jpg)
-
-[#31A. BridgePi USB streamer adapter, $29.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/BridgePi)
-![BridgePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/BridgePi/BridgePi.jpg)
-
-[#46A. DDDAC U.FL input adapter fully finished with an additional free PCB, $18.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
-![DDDACadapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/46A_DDDAC_UFL_Adapter.jpg)
 
 
 ## 8. Other accessories
