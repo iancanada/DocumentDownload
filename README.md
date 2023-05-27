@@ -1,7 +1,7 @@
 # How to order?  
-# Download the order form below and then send it back to me at iancanada.mail@gmail.com
+## Download the order form below and then send it back to me at iancanada.mail@gmail.com
 
-# Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/227_ian-canada
+## Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/227_ian-canada
 
 [Order Form Download](https://github.com/iancanada/DocumentDownload/blob/master/OrderFormEmpty.xls)
 
@@ -13,18 +13,39 @@
 
 # IanCanada products list (Click links for user's maunals)
 
+## 1. Low jitter Re-Clockers
 
-[1C. FifoPiMa V1.5 Master mode Raspberry Pi I2S/DSD/DoP Re-clocker with  dual XO $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiMa)
-
-![FifoPiMa](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiMa/FifoPiMa.jpg)
-
-[1D. FifoPi Q7 Flagship I2S/DSD/DoP FIFO with isolator,re-clocker and dual XO $189.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiQ7)
+[#1D. FifoPi Q7 Flagship I2S/DSD/DoP FIFO with isolator,re-clocker and dual XO $189.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiQ7)
 
 ![FifoPiQ7](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ7/FifoPiQ7.jpg)
 
-[1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
+[#1C. FifoPiMa V1.5 Master mode Raspberry Pi I2S/DSD/DoP Re-clocker with  dual XO $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiMa)
 
-![FifoPiQ3](https://github.com/iancanada/DocumentDownload/blob/master/ReClockPi/ReClockPi.jpg)
+![FifoPiMa](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiMa/FifoPiMa.jpg)
+
+[#1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
+
+![ReClockPi](https://github.com/iancanada/DocumentDownload/blob/master/ReClockPi/ReClockPi.jpg)
+
+[#1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
+
+![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
+
+[#2. McDualXO multi-channel clock board $85.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McDualXO)
+
+![McDualXO](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/McFIFO%20series/McDualXO/McDualXOGB.jpg)
+
+## 2. Streamer transport interface boards
+
+[#17B. HdmiPi Pro Flagship HDMI transport interface, $125](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro)
+
+![HdmiPiPro](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro/HdmiPiPro.jpg)
+
+[20C. TransportPi AES, Flagship AES/SPDIF stransport, $139.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiAES)
+
+![TransportPiAES](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiAES/TransportPiAES.jpg)
+
+## 3. DAC HATs
 
 [2A. LifeO4 mkIII pure power supply with 5 output rails (no batterty) $199.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
 
@@ -96,9 +117,7 @@
 
 ![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiMkIITransmitter.jpg)
 
-[17B. HdmiPi Pro Flagship HDMI transport interface, $125](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro)
 
-![HdmiPiPro](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro/HdmiPiPro.jpg)
 
 [18A. HDMIpi I2S/DSD/DoP receiver, $25.00](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
 
@@ -120,9 +139,7 @@
 
 ![TransportPiDigi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiDigi/TransportPiDigi.jpg)
 
-[20C. TransportPi AES, Flagship AES/SPDIF stransport, $139.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiAES)
 
-![TransportPiAES](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiAES/TransportPiAES.jpg)
 
 [21A. GPIO terminator KIT (SMD finished Regular, $6.8](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOterminator)
 
@@ -259,13 +276,7 @@
 
 ![AcrylicCover](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/51A_AcrylicCover.jpg)
 
-[1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
-![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
-
-[2. McDualXO multi-channel clock board $85.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McDualXO)
-
-![McDualXO](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/McFIFO%20series/McDualXO/McDualXOGB.jpg)
 
 [3. IsolatorPi II RsapberryPi/ODROID I2S/DSD/DoP isolator $49.00](https://github.com/iancanada/DocumentDownload/tree/master/IsolatorPi)
 
