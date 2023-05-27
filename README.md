@@ -23,10 +23,6 @@
 
 ![FifoPiMa](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiMa/FifoPiMa.jpg)
 
-[#1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
-
-![ReClockPi](https://github.com/iancanada/DocumentDownload/blob/master/ReClockPi/ReClockPi.jpg)
-
 [#1. McFIFO multi-channel I2S/DSD FIFO with built-in isolator $189.00](https://github.com/iancanada/DocumentDownload/tree/master/McFIFO%20series/McFIFO)
 
 ![McFIFO](https://github.com/iancanada/DocumentDownload/blob/master/McFIFO%20series/McFIFO/McFIFOGB.jpg)
@@ -41,55 +37,178 @@
 
 ![HdmiPiPro](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro/HdmiPiPro.jpg)
 
-[20C. TransportPi AES, Flagship AES/SPDIF stransport, $139.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiAES)
+[#20C. TransportPi AES, Flagship AES/SPDIF stransport, $139.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiAES)
 
 ![TransportPiAES](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiAES/TransportPiAES.jpg)
 
+[#20B. TransportPi Digi,Audiophile grade master mode digi transport, $95.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiDigi)
+
+![TransportPiDigi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiDigi/TransportPiDigi.jpg)
+
+[#20A. TransportPi MkII, $79.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi)
+
+![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiMkII.jpg)
+
+[#19A. ReceiverPi, $58.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
+
+![ReceiverPi](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPi.jpg)
+
+[#19B. ReceiverPi Pro, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
+
+![ReceiverPiPro](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPiPro.jpg)
+
+[#17A. HDMIpi MkII I2S/DSD/DoP to HDMI transmitter, $38.50](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
+
+![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiMkIITransmitter.jpg)
+
+[#18A. HDMIpi I2S/DSD/DoP receiver, $25.00](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
+
+![HDMIpi Receiver](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiReceiver.jpg)
+
+
+
 ## 3. DAC HATs
-
-[2A. LifeO4 mkIII pure power supply with 5 output rails (no batterty) $199.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
-
-![LifePO4 mkII Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/pictures/LifePO4MKIII.jpg)
-
-[3A. ESS controller $39.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
-
-![ESS controller](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESSC.jpg)
-
-[4A. 9038Q2MPi Dual Mono Plus DAC HAT $85.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
+[#4A. 9038Q2MPi Dual Mono Plus DAC HAT $85.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
 
 ![Dual Mono Plus ES9038Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT/9038Q2MPiDmPlus.jpg)
 
-[5A. ES9028Q2M DAC HAT $49.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9028Q2MDacHAT)
+[#5A. ES9028Q2M DAC HAT $49.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9028Q2MDacHAT)
 
 ![ES9028Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9028Q2MDacHAT/ES9028Q2MdacHAT.jpg)
 
-[6A. I/V STD MkII standard OPA I/V stage $39.30](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
+[#3A. ESS controller $39.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
 
-![I/V STDMkII](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IvStdMkII.jpg)
+![ESS controller](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESSC.jpg)
 
-[6B. OPA861 zero feedback balanced I/V board $129](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/OPA861IV)
+[#6B. OPA861 zero feedback balanced I/V board $129](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/OPA861IV)
 
 ![OPA861IV](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/OPA861IV/OPA861.jpg)
 
-[7A. LL1544A Transformer I/V KIT, $19.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/LL1544aTranformerIV)
+[#6A. I/V STD MkII standard OPA I/V stage $39.30](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/IVSTD)
+
+![I/V STDMkII](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/IvStdMkII.jpg)
+
+[#7A. LL1544A Transformer I/V KIT, $19.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/IVboards/LL1544aTranformerIV)
 
 ![TransformerIvKIT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/LL1544aTranformerIV/LL1544AtransformerIvKIT.jpg)
 
-[8A. ESS controller extension kit $12.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
+[#8A. ESS controller extension kit $12.00](https://github.com/iancanada/DocumentDownload/tree/master/ESScontroller)
 
 ![Controller extension KIT](https://github.com/iancanada/DocumentDownload/blob/master/ESScontroller/ESScontrollerExtensionKit.jpg)
 
-[9A. Package of dedicated CCHD957 XO adapter kit lot of 2, $9.5](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/CCHD957adapterKIT)
+
+
+## 4. Ultra-low noise power supplies
+[#41B. UcPureMkII ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
+
+![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41B_UcPureMkII.jpg)
+
+[#32B. LinearPi MkII Solo Linear Power supply, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
+
+![LinearPiSolo](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiMkIISolo.jpg)
+
+[#33B. LinearPi MkII Dual Linear Power supply, $109.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
+
+![LinearPiDual](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiMkIIDual.jpg)
+
+[#42A. LifePO4 Mini 3.3V power supply, $56.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini3.3V)
+
+![LifePO4Mini3.3](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini3.3V/42A_LifePO4Mini3.3V.jpg)
+
+[#43A. LifePO4 Mini 6.6V power supply, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini6.6V)
+
+![LifePO4Mini6.6](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini6.6V/43A_LifePO4Mini6.6.jpg)
+
+[47A. UcPi Universal Ultracapacitor RPi Power Supply with ultracapacitors pre-installed, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPi)
+
+![UcPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPi/UcPi.jpg)
+
+[48A. PurePi 5V+3.3V ultracapacitor/LifePO4 battery power supply combo with ultracapacitors/battery holders pre-installed, $86.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/PurePi)
+
+![PurePi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/PurePi/PurePi.jpg)
+
+[#25A. UcConditioner 5V (Universal), $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+
+![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerV7_1.jpg)
+
+[#26A. UcConditioner 3.3V (Universal), $67.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+
+![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditioner3.3.jpg)
+
+[#2A. LifeO4 mkIII pure power supply with 5 output rails (no batterty) $199.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
+
+![LifePO4 mkII Power Supply](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply/pictures/LifePO4MKIII.jpg)
+
+[#27A. UcMateConditioner 5V KIT (for LifePO4 MkIII,II), $58.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcMateConditioner)
+
+![UcMateConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcMateConditioner/UcMateConditioner.jpg)
+
+[#28A. UcHybrid 3.3V KIT (for LifePO4 MkIII,II), $45.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcHybrid)
+
+![UcHybrid3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcHybrid/UcHybridShipped.jpg)
+
+[#29A. UcAdapter KIT (for LifePO4 MkIII,II), $29.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcAdapterKIT)
+
+![UcAdapterKIT](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcAdapterKIT/UcAdapterKIT.jpg)
+
+[#30A. ConditionerPi (Ultra capacitors power Raspberry Pi at local GPIO ), $54.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/ConditionerPi)
+
+![ConditionerPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/ConditionerPi/ConditionerPi.jpg)
+
+## 5. Re-Clocker accessories
+
+[#1B. ReClockPi low noise low jitter double reclocker $75.00](https://github.com/iancanada/DocumentDownload/tree/master/ReClockPi)
+
+![ReClockPi](https://github.com/iancanada/DocumentDownload/blob/master/ReClockPi/ReClockPi.jpg)
+
+[#36A. SinePi SMT finished KIT, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
+
+![SinePiKIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/36A_SinePi_SMTfinishedKIT.jpg)
+
+[#37A. SinePi fully finished (RF relay), $125.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
+
+![SinePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/37A_SinePi_FullyFinished.jpg)
+
+[#38A. Oven KIT for SC-Cut crystal, $39.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/OvenKit)
+
+![OvenKit](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OvenKit/38A_OVEN_KIT.jpg)
+
+[#9A. Package of dedicated CCHD957 XO adapter kit lot of 2, $9.5](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/CCHD957adapterKIT)
 
 ![CCHD957 adapter KIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/CCHD957adapterKIT/CCHD957daapterKIT.jpg)
+
+[#19. Package of Universal SMT XO Adapters KIT lot of 5 $9.99](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
+
+![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/XOadapterKITlotOf5.JPG)
+
+[#11A.  2” double-ended silver plated U.FL coaxial cable, $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![2"U.FL cable](https://github.com/iancanada/DocumentDownload/blob/master/Cables/2inchU.FLcable.jpg)
+
+[#13,14,15,16. 4",6",7",12"double-ended silver plated U.FL coaxial cable $3, $4, $5, $5](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![U.FL cables](https://github.com/iancanada/DocumentDownload/blob/master/Cables/SilverPlatedCable.JPG)
+
+[#17. SMT U.FL socket $1.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/U.FLsocket.JPG)
+
+[#39A. 6" SMA cable RG316 silver plated, $7.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![SMAcable6](https://github.com/iancanada/DocumentDownload/blob/master/Cables/39A_SMA_cable_6.jpg)
+
+[#40A. 10" SMA cable RG316 silver plated, $9.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
+
+![SMAcable10](https://github.com/iancanada/DocumentDownload/blob/master/Cables/40A_SMA_Cable_10.jpg)
+
+
+
 
 [10A. Package of OPA1622 adapter PCB kit lot of 5, $5.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
 ![OPA1622 adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OPA1622AdapterPcbKitLotOf5.jpg)
 
-[11A.  2” double-ended silver plated U.FL coaxial cable, $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
-![2"U.FL cable](https://github.com/iancanada/DocumentDownload/blob/master/Cables/2inchU.FLcable.jpg)
 
 [12A.  2.5mmx13mm metal standoffs for RPI lot of 4 sets, $2.90](https://github.com/iancanada/DocumentDownload/tree/master/Others)
 
@@ -113,31 +232,13 @@
 
 ![XLR connectors](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/NEUTRIK_NC3MAAH.jpg)
 
-[17A. HDMIpi MkII I2S/DSD/DoP to HDMI transmitter, $38.50](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
-
-![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiMkIITransmitter.jpg)
 
 
 
-[18A. HDMIpi I2S/DSD/DoP receiver, $25.00](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
 
-![HDMIpi Receiver](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiReceiver.jpg)
 
-[19A. ReceiverPi, $58.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
 
-![ReceiverPi](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPi.jpg)
 
-[19B. ReceiverPi Pro, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
-
-![ReceiverPiPro](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPiPro.jpg)
-
-[20A. TransportPi MkII, $79.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi)
-
-![TransportPi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiMkII.jpg)
-
-[20B. TransportPi Digi,Audiophile grade master mode digi transport, $95.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiDigi)
-
-![TransportPiDigi](https://github.com/iancanada/DocumentDownload/blob/master/TransportPi/TransportPiDigi/TransportPiDigi.jpg)
 
 
 
@@ -162,41 +263,13 @@
 
 ![I/VSTDfree](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/IVSTD/24A.IVSTDforPart.jpg)
 
-[25A. UcConditioner 5V (Universal), $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
-![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerV7_1.jpg)
-
-[26A. UcConditioner 3.3V (Universal), $67.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
-
-![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditioner3.3.jpg)
-
-[27A. UcMateConditioner 5V KIT (for LifePO4 MkIII,II), $58.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcMateConditioner)
-
-![UcMateConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcMateConditioner/UcMateConditioner.jpg)
-
-[28A. UcHybrid 3.3V KIT (for LifePO4 MkIII,II), $45.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcHybrid)
-
-![UcHybrid3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcHybrid/UcHybridShipped.jpg)
-
-[29A. UcAdapter KIT (for LifePO4 MkIII,II), $29.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcAdapterKIT)
-
-![UcAdapterKIT](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcAdapterKIT/UcAdapterKIT.jpg)
-
-[30A. ConditionerPi (Ultra capacitors power Raspberry Pi at local GPIO ), $54.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/ConditionerPi)
-
-![ConditionerPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/ConditionerPi/ConditionerPi.jpg)
 
 [31A. BridgePi USB streamer adapter, $29.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/BridgePi)
 
 ![BridgePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/BridgePi/BridgePi.jpg)
 
-[32B. LinearPi MkII Solo Linear Power supply, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
 
-![LinearPiSolo](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiMkIISolo.jpg)
-
-[33B. LinearPi MkII Dual Linear Power supply, $109.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
-
-![LinearPiDual](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiMkIIDual.jpg)
 
 [34A. LinearPi Standoff/Screw Sets, $4.90](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
 
@@ -212,37 +285,13 @@
 
 ![StationPiPro](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/StationPiPro/StationPiPro.jpg)
 
-[36A. SinePi SMT finished KIT, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
 
-![SinePiKIT](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/36A_SinePi_SMTfinishedKIT.jpg)
 
-[37A. SinePi fully finished (RF relay), $125.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/SinePi)
 
-![SinePi](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/SinePi/37A_SinePi_FullyFinished.jpg)
 
-[38A. Oven KIT for SC-Cut crystal, $39.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/OvenKit)
 
-![OvenKit](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/OvenKit/38A_OVEN_KIT.jpg)
 
-[39A. 6" SMA cable RG316 silver plated, $7.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
-![SMAcable6](https://github.com/iancanada/DocumentDownload/blob/master/Cables/39A_SMA_cable_6.jpg)
-
-[40A. 10" SMA cable RG316 silver plated, $9.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
-
-![SMAcable10](https://github.com/iancanada/DocumentDownload/blob/master/Cables/40A_SMA_Cable_10.jpg)
-
-[41B. UcPureMkII ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
-
-![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41B_UcPureMkII.jpg)
-
-[42A. LifePO4 Mini 3.3V power supply, $56.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini3.3V)
-
-![LifePO4Mini3.3](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini3.3V/42A_LifePO4Mini3.3V.jpg)
-
-[43A. LifePO4 Mini 6.6V power supply, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/LifePO4Mini/LifePO4Mini6.6V)
-
-![LifePO4Mini6.6](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4Mini/LifePO4Mini6.6V/43A_LifePO4Mini6.6.jpg)
 
 [44A. Each 26650 battery holder with assembling service, $5.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
@@ -256,13 +305,7 @@
 
 ![DDDACadapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/46A_DDDAC_UFL_Adapter.jpg)
 
-[47A. UcPi Universal Ultracapacitor RPi Power Supply with ultracapacitors pre-installed, $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPi)
 
-![UcPi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPi/UcPi.jpg)
-
-[48A. PurePi 5V+3.3V ultracapacitor/LifePO4 battery power supply combowith ultracapacitors/battery holders pre-installed, $86.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/PurePi)
-
-![PurePi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/PurePi/PurePi.jpg)
 
 [49A. MonitorPi RaspberryPi OLED audio display/analyzer, $49.00](https://github.com/iancanada/DocumentDownload/tree/master/MonitorPi)
 
@@ -320,21 +363,13 @@
 
 ![BatteryManage](https://github.com/iancanada/DocumentDownload/blob/master/PowerSupply/BatteryManagementBoard/BatteryManagementPCB.jpg)
 
-[13,14,15,16. 4",6",7",12"double-ended silver plated U.FL coaxial cable $3, $4, $5, $5](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
-![U.FL cables](https://github.com/iancanada/DocumentDownload/blob/master/Cables/SilverPlatedCable.JPG)
-
-[17. SMT U.FL socket $1.00](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
-
-![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/U.FLsocket.JPG)
 
 [18. 10P 1.0mm FFC/FPC cables combo (3 cables) $3.95](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
 ![U.FL socket](https://github.com/iancanada/DocumentDownload/blob/master/Cables/FPCcombo10P.JPG)
 
-[19. Package of Universal SMT XO Adapters KIT lot of 5 $9.99](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
-![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/XOadapterKITlotOf5.JPG)
 
 [20. RaspberryPi I2S adapter PCB/connector package $6.90](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
 
