@@ -108,7 +108,8 @@
 ## 4. Ultra-low noise power supplies
 [#41B. UcPureMkII ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
 
-![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41B_UcPureMkII.jpg)
+[#41C. UcPureMkIII ultracapacitor power supply, $98.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
+![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41C_UcPureMkIII.jpg)
 
 [#32B. LinearPi MkII Solo Linear Power supply, $69.00](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
 
