@@ -170,6 +170,9 @@
 [50A. Universal RaspberryPi GPIO extension KIT,6"&12",  $29.00](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GPIOextensionKIT)
 ![GPIOextension](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GPIOextensionKIT/GPIOextender.jpg)
 
+[50B. GPIO spacer connector,  $9.98](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/GpioSpacer) 
+![GPIOspacer](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/GpioSpacer/GpioSpacer.jpg)
+
 [#23B. ShieldPi Pro multi-functional EMI shield/power filter, $39](https://github.com/iancanada/DocumentDownload/tree/master/Adapters/ShieldPiPro)
 ![ShieldPiPro](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/ShieldPiPro/ShieldPiPro.jpg)
 
