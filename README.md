@@ -106,9 +106,10 @@
 
 
 ## 4. Ultra-low noise power supplies
+[#41C. UcPureMkIII ultracapacitor power supply, $98.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
+
 [#41B. UcPureMkII ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
 
-[#41C. UcPureMkIII ultracapacitor power supply, $98.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
 ![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41C_UcPureMkIII.jpg)
 
 [#41F. UcBalancer protection board KIT, $39.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcBalancer)
@@ -144,7 +145,7 @@
 
 ![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerMkII5V.jpg)
 
-[#26B. UcConditioner 3.3V (Universal), $69.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+[#26B. UcConditionerMkII 3.3V (Universal), $69.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
 ![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerMkII3.3V.jpg)
 
