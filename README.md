@@ -106,9 +106,10 @@
 
 
 ## 4. Ultra-low noise power supplies
+[#41C. UcPureMkIII ultracapacitor power supply, $98.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
+
 [#41B. UcPureMkII ultracapacitor power supply, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
 
-[#41C. UcPureMkIII ultracapacitor power supply, $98.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcPure)
 ![UcPure](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcPure/41C_UcPureMkIII.jpg)
 
 [#41F. UcBalancer protection board KIT, $39.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcBalancer)
@@ -138,13 +139,15 @@
 
 ![PurePi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/PurePi/PurePi.jpg)
 
+[#25B. UcConditionerMkII 5V (Universal), $69.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+
 [#25A. UcConditioner 5V (Universal), $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
-![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerV7_1.jpg)
+![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerMkII5V.jpg)
 
-[#26A. UcConditioner 3.3V (Universal), $67.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+[#26B. UcConditionerMkII 3.3V (Universal), $69.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
-![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditioner3.3.jpg)
+![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerMkII3.3V.jpg)
 
 [#2A. LifeO4 mkIII pure power supply with 5 output rails (no batterty) $199.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
 
