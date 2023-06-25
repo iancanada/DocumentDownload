@@ -138,11 +138,13 @@
 
 ![PurePi](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/PurePi/PurePi.jpg)
 
+[#25B. UcConditionerMkII 5V (Universal), $69.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+
 [#25A. UcConditioner 5V (Universal), $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
 ![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerMkII5V.jpg)
 
-[#26A. UcConditioner 3.3V (Universal), $67.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
+[#26B. UcConditioner 3.3V (Universal), $69.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
 ![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerMkII3.3V.jpg)
 
