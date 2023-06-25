@@ -140,11 +140,11 @@
 
 [#25A. UcConditioner 5V (Universal), $59.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
-![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerV7_1.jpg)
+![UcConditioner5V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerMkII5V.jpg)
 
 [#26A. UcConditioner 3.3V (Universal), $67.00](https://github.com/iancanada/DocumentDownload/tree/master/UltraCapacitorPowerSupply/UcConditioner)
 
-![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditioner3.3.jpg)
+![UcConditioner3.3V](https://github.com/iancanada/DocumentDownload/blob/master/UltraCapacitorPowerSupply/UcConditioner/UcConditionerMkII3.3V.jpg)
 
 [#2A. LifeO4 mkIII pure power supply with 5 output rails (no batterty) $199.99](https://github.com/iancanada/DocumentDownload/blob/master/LifePO4PowerSupply)
 
