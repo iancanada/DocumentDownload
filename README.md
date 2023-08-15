@@ -229,10 +229,6 @@
 
 ![NDK2520adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/NDK2520XOadapterKIT/22A.NDKadapter.jpg)
 
-[#19. Package of Universal SMT XO Adapters KIT lot of 5 $9.99](https://github.com/iancanada/DocumentDownload/tree/master/Adapters)
-
-![XO adapter](https://github.com/iancanada/DocumentDownload/blob/master/Adapters/XOadapterKITlotOf5.JPG)
-
 [#11A.  2” double-ended silver plated U.FL coaxial cable, $2.80](https://github.com/iancanada/DocumentDownload/tree/master/Cables)
 
 ![2"U.FL cable](https://github.com/iancanada/DocumentDownload/blob/master/Cables/2inchU.FLcable.jpg)
@@ -292,9 +288,6 @@
 
 [#7. Dual XO II Clock Board without XO and socket $65.00](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/DualXO%20II%20ClockBoard)
 ![DualXO II](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/DualXO%20II%20ClockBoard/DualXOIInoSocket.jpg)
-
-[#10. FIFO II isolator board PCB mini KIT $9.30](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/IsolatorBoard)
-![Isolator FIFO II](https://raw.githubusercontent.com/iancanada/DocumentDownload/master/FIFO%20II%20series/IsolatorBoard/12_IsolatorMiniKIT.JPG)
 
 [#8. S/PDIF Interface Board for FIFO II $89.00](https://github.com/iancanada/DocumentDownload/tree/master/FIFO%20II%20series/SPDIFboard)
 ![S/PDIF](https://github.com/iancanada/DocumentDownload/blob/master/FIFO%20II%20series/SPDIFboard/SPDIFinterfaceBoard.JPG)
