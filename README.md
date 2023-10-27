@@ -77,7 +77,7 @@
 ## 3. DAC HATs
 [#4A. 9038Q2MPi Dual Mono Plus DAC HAT $85.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
 
-![Dual Mono Plus ES9038Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT/9038Q2MPiDmPlus.jpg)
+![Dual Mono Plus ES9038Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT/ES9038Q2MDMII.jpg)
 
 [#5A. ES9028Q2M DAC HAT $49.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9028Q2MDacHAT)
 
