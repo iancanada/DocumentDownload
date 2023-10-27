@@ -64,6 +64,14 @@
 
 ![ReceiverPiPro](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPiPro.jpg)
 
+[#19C. ReceiverPi Pro II, $87.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
+
+![ReceiverPiProII](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPiProII.jpg)
+
+[#19D. ReceiverPi DDC, $98.00](https://github.com/iancanada/DocumentDownload/tree/master/ReceiverPi)
+
+![ReceiverPiDDC](https://github.com/iancanada/DocumentDownload/blob/master/ReceiverPi/ReceiverPiDDC.jpg)
+
 [#17A. HDMIpi MkII I2S/DSD/DoP to HDMI transmitter, $38.50](https://github.com/iancanada/DocumentDownload/tree/master/HDMIpi)
 
 ![HDMIpi transmitter](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HDMIpiMkIITransmitter.jpg)
@@ -75,7 +83,7 @@
 
 
 ## 3. DAC HATs
-[#4A. 9038Q2MPi Dual Mono Plus DAC HAT $85.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
+[#4B. ES9038Q2M Dual Mono II DAC HAT $105.00](https://github.com/iancanada/DocumentDownload/tree/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT)
 
 ![Dual Mono Plus ES9038Q2M DAC HAT](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/ES9038Q2MDualMonoDacHAT/ES9038Q2MDMII.jpg)
 
@@ -258,8 +266,8 @@
 [22. Standoffs/screws set (M3,15mm&8mm) $1.10](https://github.com/iancanada/DocumentDownload/tree/master/Others)
 ![AntiVib](https://github.com/iancanada/DocumentDownload/blob/master/Others/StandoffScrewSet.jpg)
 
-[#21. Anti-vibration screw grommet set(767KE-ND) $1.08](https://github.com/iancanada/DocumentDownload/tree/master/Others)
-![AntiVib](https://github.com/iancanada/DocumentDownload/blob/master/Others/AntiVibrationGrommet.jpg)
+[#21. Anti-vibration screw grommet with long standoff $3.9](https://github.com/iancanada/DocumentDownload/tree/master/Others)
+![AntiVib](https://github.com/iancanada/DocumentDownload/blob/master/Others/AntiVibrationFoot.jpg)
 
 [#34A. LinearPi Standoff/Screw Sets, $4.90](https://github.com/iancanada/DocumentDownload/tree/master/LinearPi)
 ![LinearPiStandoff](https://github.com/iancanada/DocumentDownload/blob/master/LinearPi/LinearPiStandoffScrewSet.jpg)
