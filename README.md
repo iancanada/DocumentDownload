@@ -1,6 +1,6 @@
 # How to order?  
 # [My store:  iancanada.ca](https://iancanada.ca/)
-### Download the order form below and then send it back to me at iancanada.mail@gmail.com
+### Or, Download the order form below and then send it back to me at iancanada.mail@gmail.com
 
 ### Or visit my European distributer Audiophonics: https://www.audiophonics.fr/en/227_ian-canada
 
