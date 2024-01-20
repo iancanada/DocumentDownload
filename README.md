@@ -16,9 +16,9 @@
 
 ## 1. Low jitter Re-Clockers
 
-[#1D. FifoPi Q7 Flagship I2S/DSD/DoP FIFO with isolator,re-clocker and dual XO $189.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiQ7)
+[#1D. FifoPi Q7II Flagship I2S/DSD/DoP FIFO with isolator,re-clocker and dual XO $199.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiQ7)
 
-![FifoPiQ7](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ7/FifoPiQ7.jpg)
+![FifoPiQ7](https://github.com/iancanada/DocumentDownload/blob/master/FifoPi/FifoPiQ7/FifoPiQ7II.jpg)
 
 [#1C. FifoPiMa V1.5 Master mode Raspberry Pi I2S/DSD/DoP Re-clocker with  dual XO $99.00](https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiMa)
 
