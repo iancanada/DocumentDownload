@@ -41,9 +41,9 @@
 
 ## 2. Streamer transport interface boards
 
-[#17B. HdmiPi Pro Flagship HDMI transport interface, $125](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro)
+[#17B. HdmiPi Pro II Flagship HDMI transport interface, $135](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro)
 
-![HdmiPiPro](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro/HdmiPiPro.jpg)
+![HdmiPiPro](https://github.com/iancanada/DocumentDownload/blob/master/HDMIpi/HdmiPiPro/HdmiPiProII.jpg)
 
 [#20C. TransportPi AES, Flagship AES/SPDIF stransport, $139.00](https://github.com/iancanada/DocumentDownload/tree/master/TransportPi/TransportPiAES)
 
